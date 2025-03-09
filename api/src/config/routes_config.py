@@ -1,4 +1,4 @@
-from types.routes_type import *
+from app_types.routes_type import ApiRoutes
 
 
 __api_routes_data = {
