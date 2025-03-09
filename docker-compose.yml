@@ -1,0 +1,57 @@
+services:
+  server:
+    build: ./server
+    depends_on:
+      - db
+    environment:
+      - DATABASE_URL=postgresql://postgres:password@db:5432/tg?schema=public
+    dns:
+      - 8.8.8.8
+      - 8.8.4.4
+      - 1.1.1.1
+    networks:
+      - planner_network
+    ports:
+      - "3000:3000"
+
+  client:
+    build: ./client
+    depends_on:
+      - db
+      - server
+    networks:
+      - planner_network
+    ports:
+      - "5173:5173"
+
+  db:
+    image: postgres:latest
+    restart: always
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=tg
+    networks:
+      - planner_network
+    ports:
+      - "5432:5432"
+
+  proxy:
+    build: ./nginx
+    depends_on:
+      - db
+      - server
+      - client
+    networks:
+      - planner_network
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+      - ./nginx/ssl:/etc/nginx/ssl:ro
+    command: ["/bin/bash", "-c", "nginx -g 'daemon off;'"]
+
+networks:
+  planner_network:
+    driver: bridge
