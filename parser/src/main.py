@@ -1,14 +1,10 @@
 from fastapi import FastAPI
 import uvicorn
-import config
 
 from config import main_config
 from config.routes_config import api_routes
 from app.hello.hello_routes import hello_router
 from app.parser.parser_routes import parser_router
-
-from sql_alchemy.database import engine
-from sqlalchemy import text
 
 
 def main():
@@ -37,14 +33,5 @@ def main():
     finally:
         print('Сервер закончил работу!')
 
-def test():
-    with engine.connect() as conn:
-        query = text( 'SELECT VERSION();' )
-        res = conn.execute( query )
-        print( f'{res=}' )
-        conn.commit()
-    
-
 if __name__ == "__main__":
-    # main()
-    test()
+    main()
