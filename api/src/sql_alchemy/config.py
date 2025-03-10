@@ -11,7 +11,7 @@ class DbSettings(BaseSettings):
 
     @property
     def DB_URL_asyncpg(self):
-        pass
+        return f'postgresql+asyncpg://{self.DB_USER}:{self.DB_PASSWORD}@{self.DB_HOST}:{self.DB_PORT}/{self.DB_NAME}'
 
     @property
     def DB_URL_psycopg(self):

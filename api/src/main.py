@@ -42,6 +42,7 @@ def test():
         query = text( 'SELECT VERSION();' )
         res = conn.execute( query )
         print( f'{res=}' )
+        conn.commit()
     
 
 if __name__ == "__main__":
