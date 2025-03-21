@@ -1,5 +1,5 @@
 venv
-./app/.env
+/app/.env
 __pycache__
 *.pyc
 results
