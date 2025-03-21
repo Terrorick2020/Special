@@ -1,0 +1,1574 @@
+=== https://www.youtube.com/about/copyright/ ===
+Richtlijnen en beleidAuteursrecht
+Richtlijnen en beleidAuteursrecht
+Richtlijnen en beleidAuteursrecht
+Richtlijnen en beleidAuteursrecht
+Richtlijnen en beleidAuteursrecht
+OverzichtUitzonderingen op het auteursrechtEen auteursrechtclaim indienenAuteursrecht handhavenDe belangrijkste regel van auteursrechtCreators mogen enkel video’s uploaden die ze zelf hebben gemaakt of video’s waarvoor ze toestemming hebben gekregen om die te uploaden. Ze mogen dus geen video's uploaden die ze zelf niet hebben gemaakt, of geen inhoud in hun video's gebruiken waarop een auteursrecht rust, denk aan muzieknummers, fragmenten uit programma’s met auteursrecht, of video’s die door andere gebruikers werden gemaakt, zonder daar eerst toestemming voor te hebben.Wat zijn uitzonderingen op het auteursrecht?Uitzonderingen op het auteursrecht zijn wetten die het mogelijk maken om auteursrechtelijk beschermd materiaal van iemand anders te gebruiken zonder diegene daarvoor om toestemming te vragen, maar alleen onder bepaalde omstandigheden.In de VS is de bekendste uitzondering op het auteursrecht redelijk gebruik. Rechtbanken kijken naar 4 aspecten om te bepalen of iets redelijk gebruik is: het doel en de aard van het gebruik, de aard van het auteursrechtelijk beschermde werk, de hoeveelheid en het aandeel van het gebruikte gedeelte in relatie tot het auteursrechtelijk beschermde werk als geheel, en het effect van het gebruik op de potentiële afzetmarkt of waarde van het auteursrechtelijk beschermde werk. Voorbeelden van activiteiten die onder redelijk gebruik vallen, zijn kritiek, commentaar en berichtgeving. Redelijk gebruik bevordert de vrijheid van meningsuiting.In sommige 'civil law'-landen, waaronder veel EU-landen, gelden beperktere uitzonderingen en moet het gebruik binnen specifieke categorieën vallen in plaats van dat er naar bepaalde aspecten wordt gekeken. De categorieën in Artikel 17 van de EU-richtlijn inzake auteursrechten in de digitale interne markt zijn citeren, kritiek, recensie, karikatuur, parodie en pastiche. Deze woorden hebben de gebruikelijke betekenis in de gewone taal, maar zijn ook wettelijk vastgesteld door elke lidstaat en geïnterpreteerd door nationale rechtbanken en het Hof van Justitie van de Europese Unie (HvJ-EU). Ook moet worden gekeken naar de context van het gebruik en het doel van dergelijke uitzonderingen op het auteursrecht. Een van die doelen is een goede balans realiseren tussen de vrijheid van meningsuiting van creators en het auteursrecht van de rechthebbenden.Sommige landen, zoals Canada, het Verenigd Koninkrijk en Australië, kennen een hybride concept: redelijke distributie. Rechtbanken kijken naar vergelijkbare aspecten als bij redelijk gebruik, maar het gebruik moet ook binnen specifieke categorieën vallen. Deze categorieën zijn onder andere citeren (citeren in het algemeen en citeren ten behoeve van kritiek, recensie of berichtgeving), karikatuur, parodie en pastiche.De meeste landen in de wereld hebben een internationaal verdrag ondertekend, de Berner Conventie, dat gebruik in specifieke categorieën toestaat, zoals citeren en berichtgeving.Hoewel er wereldwijd wel wat overeenkomsten bestaan wat betreft uitzonderingen op het auteursrecht, zijn er ook aanzienlijke verschillen tussen de wetten van de verschillende landen. Er bestaat geen pasklaar antwoord of een bepaald gebruik onder uitzonderingen op het auteursrecht valt. Rechtbanken beoordelen per geval of dit al dan niet zo is.De missie van YouTube is iedereen een stem te geven en te laten zien wat er in de wereld gebeurt. Uitzonderingen op het auteursrecht ondersteunen deze missie doordat ze de vrije uiting van ideeën en creativiteit bevorderen. Daarom vragen we rechthebbenden zich eerst af te vragen of er misschien sprake is van een uitzondering op het auteursrecht voordat ze een verwijderingsverzoek vanwege auteursrechtschending indienen. Zo komen we tot een goede balans tussen het respecteren van het auteursrecht van rechthebbenden en de vrijheid van meningsuiting van creators die wordt beschermd door uitzonderingen op het auteursrecht.Daarnaast ontwikkelen we producten waarmee creators makkelijker dan ooit toegang hebben tot informatie en informatie kunnen maken en delen. We hebben eenAudiobibliotheekopgezet met kosteloze muziek en geluidseffecten van hoge kwaliteit die je veilig kunt gebruiken. En met YouTube Shorts kun je nu ookkorte video's met gesamplede content van anderen makenals die ander daar toestemming voor geeft. Daarnaast breiden weCreator Musicvoortdurend verder uit. Daarmee kunnen creators in het YouTube-partnerprogramma commerciële muziek gebruiken door een licentie aan te vragen voor tracks of door de video-opbrengst te delen met de houders van de muziekrechten.HulpmiddelenMeer informatie over Fair UseHoe kunnen rechthebbenden auteursrechtclaims indienen?Iedereen heeft toegang tot de tools voor auteursrechtbeheer van YouTube. Hiermee hebben rechthebbenden controle over hun auteursrechtelijk beschermde materiaal op YouTube. We werken samen met rechthebbenden en koppelen ze aan de juiste functies op basis van hoeveel auteursrechtelijk beschermde content ze op YouTube hebben staan en wat ze aan resources hebben ingezet om hun online content op een verantwoordelijke manier te beheren.  Onze Copyright Management Suite biedt rechthebbenden verschillende manieren om auteursrechtclaims in te dienen.WebformulierDe eenvoudigste manier om ongeautoriseerde kopieën van auteursrechtelijk beschermde content te laten verwijderen, is door handmatig een auteursrechtmelding in te dienen via onsDMCA-webformulier (Digital Millennium Copyright Act). Deze tool is voor de meeste gebruikers de beste optie. Het formulier kan door iedereen worden gebruikt en is in elke taal beschikbaar.Copyright Match ToolDeCopyright Match Toolvindt geüploade kopieën van video's op YouTube via technologie voor Content ID-overeenkomsten. De tool is beschikbaar voor meer dan 1,5 miljoen kanalen en identificeert nieuwe uploads op andere YouTube-kanalen die bijna helemaal overeenkomen met de originele video's van een creator. De creator kan daarna een verwijderingsverzoek indienen voor de video, de uploader een bericht sturen of de overeenkomst alleen archiveren en verder geen actie ondernemen. Iedere gebruiker die eerder via ons webformulier succesvolle DMCA-verwijderingen heeft uitgevoerd, kan toegang tot de tool aanvragen via ons openbare formulier.Content IDContent IDis onze oplossing voor rechthebbenden bij wie het rechtenbeheer het ingewikkeldst is. In dit systeem gebruiken we digitale vingerafdrukken. Rechthebbenden kunnen content waarop zij de exclusieve rechten hebben, uploaden als referentiebestanden. Vervolgens worden naar YouTube geüploade video's gescand op overeenkomsten met die content. Als een gebruiker content uploadt, controleert Content ID of de database video's bevat waarmee de content overeenkomt. Als er een overeenkomst wordt gevonden, is de actie die wordt ondernomen afhankelijk van het beleid dat de contenteigenaar zelf vooraf heeft ingesteld:Een hele video blokkeren zodat deze niet kan worden bekeken. Creators krijgen geen waarschuwing vanwege auteursrechtklacht als de contenteigenaar een video blokkeert.Inkomsten genereren met de video door er advertenties bij weer te geven en in sommige gevallen opbrengsten te delen met de gebruiker die de video heeft geüpload.De statistieken over de kijkers van de video monitoren.In de meeste gevallen betekent dit dat rechthebbenden geen verwijderingsverzoek vanwege auteursrechtschending hoeven in te dienen voor deze video's. In plaats daarvan kunnen ze inkomsten genereren en advertenties tonen als compensatie voor het feit dat de video's live zijn.HulpmiddelenMeer informatie over de Copyright Management Tools van YouTubeMeer informatie over sancties voor auteursrechtschendingWelke acties onderneemt YouTube bij inbreuken op het auteursrecht?Als een auteursrechteigenaar succesvol een DMCA-klacht indient via ons webformulier, verwijderen we die video en sturen we een waarschuwing vanwege auteursrechtklacht. Als een gebruiker driemaal een waarschuwing vanwege auteursrechtklacht krijgt binnen een periode van 90 dagen, wordt hun account en eventuele bijhorende kanalen gedeactiveerd. We bieden bovendien ook oplossingen aan creators om antwoord te bieden op hun waarschuwingen. Ze kunnen 90 dagen wachten tot de waarschuwing verlopen is, een intrekking van de waarschuwing aanvragen of een tegenkennisgeving indienen.Content IDwerkt anders. Als er een match is tussen een referentiebestand en een nieuwe upload, wordt er een ‘claim’ ingediend. Op basis van de voorkeursinstellingen van de Content ID-eigenaar gaan wij de video volgen, monetiseren of blokkeren, maar geen waarschuwing voor auteursrechtklacht versturen.HulpmiddelenMeer informatie over sancties voor copyrightschendingEen claim voor auteursrechtschending intrekkenEen tegenkennisgeving indienen
+OverzichtUitzonderingen op het auteursrechtEen auteursrechtclaim indienenAuteursrecht handhavenDe belangrijkste regel van auteursrechtCreators mogen enkel video’s uploaden die ze zelf hebben gemaakt of video’s waarvoor ze toestemming hebben gekregen om die te uploaden. Ze mogen dus geen video's uploaden die ze zelf niet hebben gemaakt, of geen inhoud in hun video's gebruiken waarop een auteursrecht rust, denk aan muzieknummers, fragmenten uit programma’s met auteursrecht, of video’s die door andere gebruikers werden gemaakt, zonder daar eerst toestemming voor te hebben.Wat zijn uitzonderingen op het auteursrecht?Uitzonderingen op het auteursrecht zijn wetten die het mogelijk maken om auteursrechtelijk beschermd materiaal van iemand anders te gebruiken zonder diegene daarvoor om toestemming te vragen, maar alleen onder bepaalde omstandigheden.In de VS is de bekendste uitzondering op het auteursrecht redelijk gebruik. Rechtbanken kijken naar 4 aspecten om te bepalen of iets redelijk gebruik is: het doel en de aard van het gebruik, de aard van het auteursrechtelijk beschermde werk, de hoeveelheid en het aandeel van het gebruikte gedeelte in relatie tot het auteursrechtelijk beschermde werk als geheel, en het effect van het gebruik op de potentiële afzetmarkt of waarde van het auteursrechtelijk beschermde werk. Voorbeelden van activiteiten die onder redelijk gebruik vallen, zijn kritiek, commentaar en berichtgeving. Redelijk gebruik bevordert de vrijheid van meningsuiting.In sommige 'civil law'-landen, waaronder veel EU-landen, gelden beperktere uitzonderingen en moet het gebruik binnen specifieke categorieën vallen in plaats van dat er naar bepaalde aspecten wordt gekeken. De categorieën in Artikel 17 van de EU-richtlijn inzake auteursrechten in de digitale interne markt zijn citeren, kritiek, recensie, karikatuur, parodie en pastiche. Deze woorden hebben de gebruikelijke betekenis in de gewone taal, maar zijn ook wettelijk vastgesteld door elke lidstaat en geïnterpreteerd door nationale rechtbanken en het Hof van Justitie van de Europese Unie (HvJ-EU). Ook moet worden gekeken naar de context van het gebruik en het doel van dergelijke uitzonderingen op het auteursrecht. Een van die doelen is een goede balans realiseren tussen de vrijheid van meningsuiting van creators en het auteursrecht van de rechthebbenden.Sommige landen, zoals Canada, het Verenigd Koninkrijk en Australië, kennen een hybride concept: redelijke distributie. Rechtbanken kijken naar vergelijkbare aspecten als bij redelijk gebruik, maar het gebruik moet ook binnen specifieke categorieën vallen. Deze categorieën zijn onder andere citeren (citeren in het algemeen en citeren ten behoeve van kritiek, recensie of berichtgeving), karikatuur, parodie en pastiche.De meeste landen in de wereld hebben een internationaal verdrag ondertekend, de Berner Conventie, dat gebruik in specifieke categorieën toestaat, zoals citeren en berichtgeving.Hoewel er wereldwijd wel wat overeenkomsten bestaan wat betreft uitzonderingen op het auteursrecht, zijn er ook aanzienlijke verschillen tussen de wetten van de verschillende landen. Er bestaat geen pasklaar antwoord of een bepaald gebruik onder uitzonderingen op het auteursrecht valt. Rechtbanken beoordelen per geval of dit al dan niet zo is.De missie van YouTube is iedereen een stem te geven en te laten zien wat er in de wereld gebeurt. Uitzonderingen op het auteursrecht ondersteunen deze missie doordat ze de vrije uiting van ideeën en creativiteit bevorderen. Daarom vragen we rechthebbenden zich eerst af te vragen of er misschien sprake is van een uitzondering op het auteursrecht voordat ze een verwijderingsverzoek vanwege auteursrechtschending indienen. Zo komen we tot een goede balans tussen het respecteren van het auteursrecht van rechthebbenden en de vrijheid van meningsuiting van creators die wordt beschermd door uitzonderingen op het auteursrecht.Daarnaast ontwikkelen we producten waarmee creators makkelijker dan ooit toegang hebben tot informatie en informatie kunnen maken en delen. We hebben eenAudiobibliotheekopgezet met kosteloze muziek en geluidseffecten van hoge kwaliteit die je veilig kunt gebruiken. En met YouTube Shorts kun je nu ookkorte video's met gesamplede content van anderen makenals die ander daar toestemming voor geeft. Daarnaast breiden weCreator Musicvoortdurend verder uit. Daarmee kunnen creators in het YouTube-partnerprogramma commerciële muziek gebruiken door een licentie aan te vragen voor tracks of door de video-opbrengst te delen met de houders van de muziekrechten.HulpmiddelenMeer informatie over Fair UseHoe kunnen rechthebbenden auteursrechtclaims indienen?Iedereen heeft toegang tot de tools voor auteursrechtbeheer van YouTube. Hiermee hebben rechthebbenden controle over hun auteursrechtelijk beschermde materiaal op YouTube. We werken samen met rechthebbenden en koppelen ze aan de juiste functies op basis van hoeveel auteursrechtelijk beschermde content ze op YouTube hebben staan en wat ze aan resources hebben ingezet om hun online content op een verantwoordelijke manier te beheren.  Onze Copyright Management Suite biedt rechthebbenden verschillende manieren om auteursrechtclaims in te dienen.WebformulierDe eenvoudigste manier om ongeautoriseerde kopieën van auteursrechtelijk beschermde content te laten verwijderen, is door handmatig een auteursrechtmelding in te dienen via onsDMCA-webformulier (Digital Millennium Copyright Act). Deze tool is voor de meeste gebruikers de beste optie. Het formulier kan door iedereen worden gebruikt en is in elke taal beschikbaar.Copyright Match ToolDeCopyright Match Toolvindt geüploade kopieën van video's op YouTube via technologie voor Content ID-overeenkomsten. De tool is beschikbaar voor meer dan 1,5 miljoen kanalen en identificeert nieuwe uploads op andere YouTube-kanalen die bijna helemaal overeenkomen met de originele video's van een creator. De creator kan daarna een verwijderingsverzoek indienen voor de video, de uploader een bericht sturen of de overeenkomst alleen archiveren en verder geen actie ondernemen. Iedere gebruiker die eerder via ons webformulier succesvolle DMCA-verwijderingen heeft uitgevoerd, kan toegang tot de tool aanvragen via ons openbare formulier.Content IDContent IDis onze oplossing voor rechthebbenden bij wie het rechtenbeheer het ingewikkeldst is. In dit systeem gebruiken we digitale vingerafdrukken. Rechthebbenden kunnen content waarop zij de exclusieve rechten hebben, uploaden als referentiebestanden. Vervolgens worden naar YouTube geüploade video's gescand op overeenkomsten met die content. Als een gebruiker content uploadt, controleert Content ID of de database video's bevat waarmee de content overeenkomt. Als er een overeenkomst wordt gevonden, is de actie die wordt ondernomen afhankelijk van het beleid dat de contenteigenaar zelf vooraf heeft ingesteld:Een hele video blokkeren zodat deze niet kan worden bekeken. Creators krijgen geen waarschuwing vanwege auteursrechtklacht als de contenteigenaar een video blokkeert.Inkomsten genereren met de video door er advertenties bij weer te geven en in sommige gevallen opbrengsten te delen met de gebruiker die de video heeft geüpload.De statistieken over de kijkers van de video monitoren.In de meeste gevallen betekent dit dat rechthebbenden geen verwijderingsverzoek vanwege auteursrechtschending hoeven in te dienen voor deze video's. In plaats daarvan kunnen ze inkomsten genereren en advertenties tonen als compensatie voor het feit dat de video's live zijn.HulpmiddelenMeer informatie over de Copyright Management Tools van YouTubeMeer informatie over sancties voor auteursrechtschendingWelke acties onderneemt YouTube bij inbreuken op het auteursrecht?Als een auteursrechteigenaar succesvol een DMCA-klacht indient via ons webformulier, verwijderen we die video en sturen we een waarschuwing vanwege auteursrechtklacht. Als een gebruiker driemaal een waarschuwing vanwege auteursrechtklacht krijgt binnen een periode van 90 dagen, wordt hun account en eventuele bijhorende kanalen gedeactiveerd. We bieden bovendien ook oplossingen aan creators om antwoord te bieden op hun waarschuwingen. Ze kunnen 90 dagen wachten tot de waarschuwing verlopen is, een intrekking van de waarschuwing aanvragen of een tegenkennisgeving indienen.Content IDwerkt anders. Als er een match is tussen een referentiebestand en een nieuwe upload, wordt er een ‘claim’ ingediend. Op basis van de voorkeursinstellingen van de Content ID-eigenaar gaan wij de video volgen, monetiseren of blokkeren, maar geen waarschuwing voor auteursrechtklacht versturen.HulpmiddelenMeer informatie over sancties voor copyrightschendingEen claim voor auteursrechtschending intrekkenEen tegenkennisgeving indienen
+OverzichtUitzonderingen op het auteursrechtEen auteursrechtclaim indienenAuteursrecht handhavenDe belangrijkste regel van auteursrechtCreators mogen enkel video’s uploaden die ze zelf hebben gemaakt of video’s waarvoor ze toestemming hebben gekregen om die te uploaden. Ze mogen dus geen video's uploaden die ze zelf niet hebben gemaakt, of geen inhoud in hun video's gebruiken waarop een auteursrecht rust, denk aan muzieknummers, fragmenten uit programma’s met auteursrecht, of video’s die door andere gebruikers werden gemaakt, zonder daar eerst toestemming voor te hebben.Wat zijn uitzonderingen op het auteursrecht?Uitzonderingen op het auteursrecht zijn wetten die het mogelijk maken om auteursrechtelijk beschermd materiaal van iemand anders te gebruiken zonder diegene daarvoor om toestemming te vragen, maar alleen onder bepaalde omstandigheden.In de VS is de bekendste uitzondering op het auteursrecht redelijk gebruik. Rechtbanken kijken naar 4 aspecten om te bepalen of iets redelijk gebruik is: het doel en de aard van het gebruik, de aard van het auteursrechtelijk beschermde werk, de hoeveelheid en het aandeel van het gebruikte gedeelte in relatie tot het auteursrechtelijk beschermde werk als geheel, en het effect van het gebruik op de potentiële afzetmarkt of waarde van het auteursrechtelijk beschermde werk. Voorbeelden van activiteiten die onder redelijk gebruik vallen, zijn kritiek, commentaar en berichtgeving. Redelijk gebruik bevordert de vrijheid van meningsuiting.In sommige 'civil law'-landen, waaronder veel EU-landen, gelden beperktere uitzonderingen en moet het gebruik binnen specifieke categorieën vallen in plaats van dat er naar bepaalde aspecten wordt gekeken. De categorieën in Artikel 17 van de EU-richtlijn inzake auteursrechten in de digitale interne markt zijn citeren, kritiek, recensie, karikatuur, parodie en pastiche. Deze woorden hebben de gebruikelijke betekenis in de gewone taal, maar zijn ook wettelijk vastgesteld door elke lidstaat en geïnterpreteerd door nationale rechtbanken en het Hof van Justitie van de Europese Unie (HvJ-EU). Ook moet worden gekeken naar de context van het gebruik en het doel van dergelijke uitzonderingen op het auteursrecht. Een van die doelen is een goede balans realiseren tussen de vrijheid van meningsuiting van creators en het auteursrecht van de rechthebbenden.Sommige landen, zoals Canada, het Verenigd Koninkrijk en Australië, kennen een hybride concept: redelijke distributie. Rechtbanken kijken naar vergelijkbare aspecten als bij redelijk gebruik, maar het gebruik moet ook binnen specifieke categorieën vallen. Deze categorieën zijn onder andere citeren (citeren in het algemeen en citeren ten behoeve van kritiek, recensie of berichtgeving), karikatuur, parodie en pastiche.De meeste landen in de wereld hebben een internationaal verdrag ondertekend, de Berner Conventie, dat gebruik in specifieke categorieën toestaat, zoals citeren en berichtgeving.Hoewel er wereldwijd wel wat overeenkomsten bestaan wat betreft uitzonderingen op het auteursrecht, zijn er ook aanzienlijke verschillen tussen de wetten van de verschillende landen. Er bestaat geen pasklaar antwoord of een bepaald gebruik onder uitzonderingen op het auteursrecht valt. Rechtbanken beoordelen per geval of dit al dan niet zo is.De missie van YouTube is iedereen een stem te geven en te laten zien wat er in de wereld gebeurt. Uitzonderingen op het auteursrecht ondersteunen deze missie doordat ze de vrije uiting van ideeën en creativiteit bevorderen. Daarom vragen we rechthebbenden zich eerst af te vragen of er misschien sprake is van een uitzondering op het auteursrecht voordat ze een verwijderingsverzoek vanwege auteursrechtschending indienen. Zo komen we tot een goede balans tussen het respecteren van het auteursrecht van rechthebbenden en de vrijheid van meningsuiting van creators die wordt beschermd door uitzonderingen op het auteursrecht.Daarnaast ontwikkelen we producten waarmee creators makkelijker dan ooit toegang hebben tot informatie en informatie kunnen maken en delen. We hebben eenAudiobibliotheekopgezet met kosteloze muziek en geluidseffecten van hoge kwaliteit die je veilig kunt gebruiken. En met YouTube Shorts kun je nu ookkorte video's met gesamplede content van anderen makenals die ander daar toestemming voor geeft. Daarnaast breiden weCreator Musicvoortdurend verder uit. Daarmee kunnen creators in het YouTube-partnerprogramma commerciële muziek gebruiken door een licentie aan te vragen voor tracks of door de video-opbrengst te delen met de houders van de muziekrechten.HulpmiddelenMeer informatie over Fair UseHoe kunnen rechthebbenden auteursrechtclaims indienen?Iedereen heeft toegang tot de tools voor auteursrechtbeheer van YouTube. Hiermee hebben rechthebbenden controle over hun auteursrechtelijk beschermde materiaal op YouTube. We werken samen met rechthebbenden en koppelen ze aan de juiste functies op basis van hoeveel auteursrechtelijk beschermde content ze op YouTube hebben staan en wat ze aan resources hebben ingezet om hun online content op een verantwoordelijke manier te beheren.  Onze Copyright Management Suite biedt rechthebbenden verschillende manieren om auteursrechtclaims in te dienen.WebformulierDe eenvoudigste manier om ongeautoriseerde kopieën van auteursrechtelijk beschermde content te laten verwijderen, is door handmatig een auteursrechtmelding in te dienen via onsDMCA-webformulier (Digital Millennium Copyright Act). Deze tool is voor de meeste gebruikers de beste optie. Het formulier kan door iedereen worden gebruikt en is in elke taal beschikbaar.Copyright Match ToolDeCopyright Match Toolvindt geüploade kopieën van video's op YouTube via technologie voor Content ID-overeenkomsten. De tool is beschikbaar voor meer dan 1,5 miljoen kanalen en identificeert nieuwe uploads op andere YouTube-kanalen die bijna helemaal overeenkomen met de originele video's van een creator. De creator kan daarna een verwijderingsverzoek indienen voor de video, de uploader een bericht sturen of de overeenkomst alleen archiveren en verder geen actie ondernemen. Iedere gebruiker die eerder via ons webformulier succesvolle DMCA-verwijderingen heeft uitgevoerd, kan toegang tot de tool aanvragen via ons openbare formulier.Content IDContent IDis onze oplossing voor rechthebbenden bij wie het rechtenbeheer het ingewikkeldst is. In dit systeem gebruiken we digitale vingerafdrukken. Rechthebbenden kunnen content waarop zij de exclusieve rechten hebben, uploaden als referentiebestanden. Vervolgens worden naar YouTube geüploade video's gescand op overeenkomsten met die content. Als een gebruiker content uploadt, controleert Content ID of de database video's bevat waarmee de content overeenkomt. Als er een overeenkomst wordt gevonden, is de actie die wordt ondernomen afhankelijk van het beleid dat de contenteigenaar zelf vooraf heeft ingesteld:Een hele video blokkeren zodat deze niet kan worden bekeken. Creators krijgen geen waarschuwing vanwege auteursrechtklacht als de contenteigenaar een video blokkeert.Inkomsten genereren met de video door er advertenties bij weer te geven en in sommige gevallen opbrengsten te delen met de gebruiker die de video heeft geüpload.De statistieken over de kijkers van de video monitoren.In de meeste gevallen betekent dit dat rechthebbenden geen verwijderingsverzoek vanwege auteursrechtschending hoeven in te dienen voor deze video's. In plaats daarvan kunnen ze inkomsten genereren en advertenties tonen als compensatie voor het feit dat de video's live zijn.HulpmiddelenMeer informatie over de Copyright Management Tools van YouTubeMeer informatie over sancties voor auteursrechtschendingWelke acties onderneemt YouTube bij inbreuken op het auteursrecht?Als een auteursrechteigenaar succesvol een DMCA-klacht indient via ons webformulier, verwijderen we die video en sturen we een waarschuwing vanwege auteursrechtklacht. Als een gebruiker driemaal een waarschuwing vanwege auteursrechtklacht krijgt binnen een periode van 90 dagen, wordt hun account en eventuele bijhorende kanalen gedeactiveerd. We bieden bovendien ook oplossingen aan creators om antwoord te bieden op hun waarschuwingen. Ze kunnen 90 dagen wachten tot de waarschuwing verlopen is, een intrekking van de waarschuwing aanvragen of een tegenkennisgeving indienen.Content IDwerkt anders. Als er een match is tussen een referentiebestand en een nieuwe upload, wordt er een ‘claim’ ingediend. Op basis van de voorkeursinstellingen van de Content ID-eigenaar gaan wij de video volgen, monetiseren of blokkeren, maar geen waarschuwing voor auteursrechtklacht versturen.HulpmiddelenMeer informatie over sancties voor copyrightschendingEen claim voor auteursrechtschending intrekkenEen tegenkennisgeving indienen
+OverzichtUitzonderingen op het auteursrechtEen auteursrechtclaim indienenAuteursrecht handhaven
+De belangrijkste regel van auteursrechtCreators mogen enkel video’s uploaden die ze zelf hebben gemaakt of video’s waarvoor ze toestemming hebben gekregen om die te uploaden. Ze mogen dus geen video's uploaden die ze zelf niet hebben gemaakt, of geen inhoud in hun video's gebruiken waarop een auteursrecht rust, denk aan muzieknummers, fragmenten uit programma’s met auteursrecht, of video’s die door andere gebruikers werden gemaakt, zonder daar eerst toestemming voor te hebben.Wat zijn uitzonderingen op het auteursrecht?Uitzonderingen op het auteursrecht zijn wetten die het mogelijk maken om auteursrechtelijk beschermd materiaal van iemand anders te gebruiken zonder diegene daarvoor om toestemming te vragen, maar alleen onder bepaalde omstandigheden.In de VS is de bekendste uitzondering op het auteursrecht redelijk gebruik. Rechtbanken kijken naar 4 aspecten om te bepalen of iets redelijk gebruik is: het doel en de aard van het gebruik, de aard van het auteursrechtelijk beschermde werk, de hoeveelheid en het aandeel van het gebruikte gedeelte in relatie tot het auteursrechtelijk beschermde werk als geheel, en het effect van het gebruik op de potentiële afzetmarkt of waarde van het auteursrechtelijk beschermde werk. Voorbeelden van activiteiten die onder redelijk gebruik vallen, zijn kritiek, commentaar en berichtgeving. Redelijk gebruik bevordert de vrijheid van meningsuiting.In sommige 'civil law'-landen, waaronder veel EU-landen, gelden beperktere uitzonderingen en moet het gebruik binnen specifieke categorieën vallen in plaats van dat er naar bepaalde aspecten wordt gekeken. De categorieën in Artikel 17 van de EU-richtlijn inzake auteursrechten in de digitale interne markt zijn citeren, kritiek, recensie, karikatuur, parodie en pastiche. Deze woorden hebben de gebruikelijke betekenis in de gewone taal, maar zijn ook wettelijk vastgesteld door elke lidstaat en geïnterpreteerd door nationale rechtbanken en het Hof van Justitie van de Europese Unie (HvJ-EU). Ook moet worden gekeken naar de context van het gebruik en het doel van dergelijke uitzonderingen op het auteursrecht. Een van die doelen is een goede balans realiseren tussen de vrijheid van meningsuiting van creators en het auteursrecht van de rechthebbenden.Sommige landen, zoals Canada, het Verenigd Koninkrijk en Australië, kennen een hybride concept: redelijke distributie. Rechtbanken kijken naar vergelijkbare aspecten als bij redelijk gebruik, maar het gebruik moet ook binnen specifieke categorieën vallen. Deze categorieën zijn onder andere citeren (citeren in het algemeen en citeren ten behoeve van kritiek, recensie of berichtgeving), karikatuur, parodie en pastiche.De meeste landen in de wereld hebben een internationaal verdrag ondertekend, de Berner Conventie, dat gebruik in specifieke categorieën toestaat, zoals citeren en berichtgeving.Hoewel er wereldwijd wel wat overeenkomsten bestaan wat betreft uitzonderingen op het auteursrecht, zijn er ook aanzienlijke verschillen tussen de wetten van de verschillende landen. Er bestaat geen pasklaar antwoord of een bepaald gebruik onder uitzonderingen op het auteursrecht valt. Rechtbanken beoordelen per geval of dit al dan niet zo is.De missie van YouTube is iedereen een stem te geven en te laten zien wat er in de wereld gebeurt. Uitzonderingen op het auteursrecht ondersteunen deze missie doordat ze de vrije uiting van ideeën en creativiteit bevorderen. Daarom vragen we rechthebbenden zich eerst af te vragen of er misschien sprake is van een uitzondering op het auteursrecht voordat ze een verwijderingsverzoek vanwege auteursrechtschending indienen. Zo komen we tot een goede balans tussen het respecteren van het auteursrecht van rechthebbenden en de vrijheid van meningsuiting van creators die wordt beschermd door uitzonderingen op het auteursrecht.Daarnaast ontwikkelen we producten waarmee creators makkelijker dan ooit toegang hebben tot informatie en informatie kunnen maken en delen. We hebben eenAudiobibliotheekopgezet met kosteloze muziek en geluidseffecten van hoge kwaliteit die je veilig kunt gebruiken. En met YouTube Shorts kun je nu ookkorte video's met gesamplede content van anderen makenals die ander daar toestemming voor geeft. Daarnaast breiden weCreator Musicvoortdurend verder uit. Daarmee kunnen creators in het YouTube-partnerprogramma commerciële muziek gebruiken door een licentie aan te vragen voor tracks of door de video-opbrengst te delen met de houders van de muziekrechten.HulpmiddelenMeer informatie over Fair UseHoe kunnen rechthebbenden auteursrechtclaims indienen?Iedereen heeft toegang tot de tools voor auteursrechtbeheer van YouTube. Hiermee hebben rechthebbenden controle over hun auteursrechtelijk beschermde materiaal op YouTube. We werken samen met rechthebbenden en koppelen ze aan de juiste functies op basis van hoeveel auteursrechtelijk beschermde content ze op YouTube hebben staan en wat ze aan resources hebben ingezet om hun online content op een verantwoordelijke manier te beheren.  Onze Copyright Management Suite biedt rechthebbenden verschillende manieren om auteursrechtclaims in te dienen.WebformulierDe eenvoudigste manier om ongeautoriseerde kopieën van auteursrechtelijk beschermde content te laten verwijderen, is door handmatig een auteursrechtmelding in te dienen via onsDMCA-webformulier (Digital Millennium Copyright Act). Deze tool is voor de meeste gebruikers de beste optie. Het formulier kan door iedereen worden gebruikt en is in elke taal beschikbaar.Copyright Match ToolDeCopyright Match Toolvindt geüploade kopieën van video's op YouTube via technologie voor Content ID-overeenkomsten. De tool is beschikbaar voor meer dan 1,5 miljoen kanalen en identificeert nieuwe uploads op andere YouTube-kanalen die bijna helemaal overeenkomen met de originele video's van een creator. De creator kan daarna een verwijderingsverzoek indienen voor de video, de uploader een bericht sturen of de overeenkomst alleen archiveren en verder geen actie ondernemen. Iedere gebruiker die eerder via ons webformulier succesvolle DMCA-verwijderingen heeft uitgevoerd, kan toegang tot de tool aanvragen via ons openbare formulier.Content IDContent IDis onze oplossing voor rechthebbenden bij wie het rechtenbeheer het ingewikkeldst is. In dit systeem gebruiken we digitale vingerafdrukken. Rechthebbenden kunnen content waarop zij de exclusieve rechten hebben, uploaden als referentiebestanden. Vervolgens worden naar YouTube geüploade video's gescand op overeenkomsten met die content. Als een gebruiker content uploadt, controleert Content ID of de database video's bevat waarmee de content overeenkomt. Als er een overeenkomst wordt gevonden, is de actie die wordt ondernomen afhankelijk van het beleid dat de contenteigenaar zelf vooraf heeft ingesteld:Een hele video blokkeren zodat deze niet kan worden bekeken. Creators krijgen geen waarschuwing vanwege auteursrechtklacht als de contenteigenaar een video blokkeert.Inkomsten genereren met de video door er advertenties bij weer te geven en in sommige gevallen opbrengsten te delen met de gebruiker die de video heeft geüpload.De statistieken over de kijkers van de video monitoren.In de meeste gevallen betekent dit dat rechthebbenden geen verwijderingsverzoek vanwege auteursrechtschending hoeven in te dienen voor deze video's. In plaats daarvan kunnen ze inkomsten genereren en advertenties tonen als compensatie voor het feit dat de video's live zijn.HulpmiddelenMeer informatie over de Copyright Management Tools van YouTubeMeer informatie over sancties voor auteursrechtschendingWelke acties onderneemt YouTube bij inbreuken op het auteursrecht?Als een auteursrechteigenaar succesvol een DMCA-klacht indient via ons webformulier, verwijderen we die video en sturen we een waarschuwing vanwege auteursrechtklacht. Als een gebruiker driemaal een waarschuwing vanwege auteursrechtklacht krijgt binnen een periode van 90 dagen, wordt hun account en eventuele bijhorende kanalen gedeactiveerd. We bieden bovendien ook oplossingen aan creators om antwoord te bieden op hun waarschuwingen. Ze kunnen 90 dagen wachten tot de waarschuwing verlopen is, een intrekking van de waarschuwing aanvragen of een tegenkennisgeving indienen.Content IDwerkt anders. Als er een match is tussen een referentiebestand en een nieuwe upload, wordt er een ‘claim’ ingediend. Op basis van de voorkeursinstellingen van de Content ID-eigenaar gaan wij de video volgen, monetiseren of blokkeren, maar geen waarschuwing voor auteursrechtklacht versturen.HulpmiddelenMeer informatie over sancties voor copyrightschendingEen claim voor auteursrechtschending intrekkenEen tegenkennisgeving indienen
+De belangrijkste regel van auteursrechtCreators mogen enkel video’s uploaden die ze zelf hebben gemaakt of video’s waarvoor ze toestemming hebben gekregen om die te uploaden. Ze mogen dus geen video's uploaden die ze zelf niet hebben gemaakt, of geen inhoud in hun video's gebruiken waarop een auteursrecht rust, denk aan muzieknummers, fragmenten uit programma’s met auteursrecht, of video’s die door andere gebruikers werden gemaakt, zonder daar eerst toestemming voor te hebben.
+Creators mogen enkel video’s uploaden die ze zelf hebben gemaakt of video’s waarvoor ze toestemming hebben gekregen om die te uploaden. Ze mogen dus geen video's uploaden die ze zelf niet hebben gemaakt, of geen inhoud in hun video's gebruiken waarop een auteursrecht rust, denk aan muzieknummers, fragmenten uit programma’s met auteursrecht, of video’s die door andere gebruikers werden gemaakt, zonder daar eerst toestemming voor te hebben.
+Wat zijn uitzonderingen op het auteursrecht?Uitzonderingen op het auteursrecht zijn wetten die het mogelijk maken om auteursrechtelijk beschermd materiaal van iemand anders te gebruiken zonder diegene daarvoor om toestemming te vragen, maar alleen onder bepaalde omstandigheden.In de VS is de bekendste uitzondering op het auteursrecht redelijk gebruik. Rechtbanken kijken naar 4 aspecten om te bepalen of iets redelijk gebruik is: het doel en de aard van het gebruik, de aard van het auteursrechtelijk beschermde werk, de hoeveelheid en het aandeel van het gebruikte gedeelte in relatie tot het auteursrechtelijk beschermde werk als geheel, en het effect van het gebruik op de potentiële afzetmarkt of waarde van het auteursrechtelijk beschermde werk. Voorbeelden van activiteiten die onder redelijk gebruik vallen, zijn kritiek, commentaar en berichtgeving. Redelijk gebruik bevordert de vrijheid van meningsuiting.In sommige 'civil law'-landen, waaronder veel EU-landen, gelden beperktere uitzonderingen en moet het gebruik binnen specifieke categorieën vallen in plaats van dat er naar bepaalde aspecten wordt gekeken. De categorieën in Artikel 17 van de EU-richtlijn inzake auteursrechten in de digitale interne markt zijn citeren, kritiek, recensie, karikatuur, parodie en pastiche. Deze woorden hebben de gebruikelijke betekenis in de gewone taal, maar zijn ook wettelijk vastgesteld door elke lidstaat en geïnterpreteerd door nationale rechtbanken en het Hof van Justitie van de Europese Unie (HvJ-EU). Ook moet worden gekeken naar de context van het gebruik en het doel van dergelijke uitzonderingen op het auteursrecht. Een van die doelen is een goede balans realiseren tussen de vrijheid van meningsuiting van creators en het auteursrecht van de rechthebbenden.Sommige landen, zoals Canada, het Verenigd Koninkrijk en Australië, kennen een hybride concept: redelijke distributie. Rechtbanken kijken naar vergelijkbare aspecten als bij redelijk gebruik, maar het gebruik moet ook binnen specifieke categorieën vallen. Deze categorieën zijn onder andere citeren (citeren in het algemeen en citeren ten behoeve van kritiek, recensie of berichtgeving), karikatuur, parodie en pastiche.De meeste landen in de wereld hebben een internationaal verdrag ondertekend, de Berner Conventie, dat gebruik in specifieke categorieën toestaat, zoals citeren en berichtgeving.Hoewel er wereldwijd wel wat overeenkomsten bestaan wat betreft uitzonderingen op het auteursrecht, zijn er ook aanzienlijke verschillen tussen de wetten van de verschillende landen. Er bestaat geen pasklaar antwoord of een bepaald gebruik onder uitzonderingen op het auteursrecht valt. Rechtbanken beoordelen per geval of dit al dan niet zo is.De missie van YouTube is iedereen een stem te geven en te laten zien wat er in de wereld gebeurt. Uitzonderingen op het auteursrecht ondersteunen deze missie doordat ze de vrije uiting van ideeën en creativiteit bevorderen. Daarom vragen we rechthebbenden zich eerst af te vragen of er misschien sprake is van een uitzondering op het auteursrecht voordat ze een verwijderingsverzoek vanwege auteursrechtschending indienen. Zo komen we tot een goede balans tussen het respecteren van het auteursrecht van rechthebbenden en de vrijheid van meningsuiting van creators die wordt beschermd door uitzonderingen op het auteursrecht.Daarnaast ontwikkelen we producten waarmee creators makkelijker dan ooit toegang hebben tot informatie en informatie kunnen maken en delen. We hebben eenAudiobibliotheekopgezet met kosteloze muziek en geluidseffecten van hoge kwaliteit die je veilig kunt gebruiken. En met YouTube Shorts kun je nu ookkorte video's met gesamplede content van anderen makenals die ander daar toestemming voor geeft. Daarnaast breiden weCreator Musicvoortdurend verder uit. Daarmee kunnen creators in het YouTube-partnerprogramma commerciële muziek gebruiken door een licentie aan te vragen voor tracks of door de video-opbrengst te delen met de houders van de muziekrechten.HulpmiddelenMeer informatie over Fair Use
+Uitzonderingen op het auteursrecht zijn wetten die het mogelijk maken om auteursrechtelijk beschermd materiaal van iemand anders te gebruiken zonder diegene daarvoor om toestemming te vragen, maar alleen onder bepaalde omstandigheden.
+In de VS is de bekendste uitzondering op het auteursrecht redelijk gebruik. Rechtbanken kijken naar 4 aspecten om te bepalen of iets redelijk gebruik is: het doel en de aard van het gebruik, de aard van het auteursrechtelijk beschermde werk, de hoeveelheid en het aandeel van het gebruikte gedeelte in relatie tot het auteursrechtelijk beschermde werk als geheel, en het effect van het gebruik op de potentiële afzetmarkt of waarde van het auteursrechtelijk beschermde werk. Voorbeelden van activiteiten die onder redelijk gebruik vallen, zijn kritiek, commentaar en berichtgeving. Redelijk gebruik bevordert de vrijheid van meningsuiting.
+In sommige 'civil law'-landen, waaronder veel EU-landen, gelden beperktere uitzonderingen en moet het gebruik binnen specifieke categorieën vallen in plaats van dat er naar bepaalde aspecten wordt gekeken. De categorieën in Artikel 17 van de EU-richtlijn inzake auteursrechten in de digitale interne markt zijn citeren, kritiek, recensie, karikatuur, parodie en pastiche. Deze woorden hebben de gebruikelijke betekenis in de gewone taal, maar zijn ook wettelijk vastgesteld door elke lidstaat en geïnterpreteerd door nationale rechtbanken en het Hof van Justitie van de Europese Unie (HvJ-EU). Ook moet worden gekeken naar de context van het gebruik en het doel van dergelijke uitzonderingen op het auteursrecht. Een van die doelen is een goede balans realiseren tussen de vrijheid van meningsuiting van creators en het auteursrecht van de rechthebbenden.
+Sommige landen, zoals Canada, het Verenigd Koninkrijk en Australië, kennen een hybride concept: redelijke distributie. Rechtbanken kijken naar vergelijkbare aspecten als bij redelijk gebruik, maar het gebruik moet ook binnen specifieke categorieën vallen. Deze categorieën zijn onder andere citeren (citeren in het algemeen en citeren ten behoeve van kritiek, recensie of berichtgeving), karikatuur, parodie en pastiche.
+De meeste landen in de wereld hebben een internationaal verdrag ondertekend, de Berner Conventie, dat gebruik in specifieke categorieën toestaat, zoals citeren en berichtgeving.
+Hoewel er wereldwijd wel wat overeenkomsten bestaan wat betreft uitzonderingen op het auteursrecht, zijn er ook aanzienlijke verschillen tussen de wetten van de verschillende landen. Er bestaat geen pasklaar antwoord of een bepaald gebruik onder uitzonderingen op het auteursrecht valt. Rechtbanken beoordelen per geval of dit al dan niet zo is.
+De missie van YouTube is iedereen een stem te geven en te laten zien wat er in de wereld gebeurt. Uitzonderingen op het auteursrecht ondersteunen deze missie doordat ze de vrije uiting van ideeën en creativiteit bevorderen. Daarom vragen we rechthebbenden zich eerst af te vragen of er misschien sprake is van een uitzondering op het auteursrecht voordat ze een verwijderingsverzoek vanwege auteursrechtschending indienen. Zo komen we tot een goede balans tussen het respecteren van het auteursrecht van rechthebbenden en de vrijheid van meningsuiting van creators die wordt beschermd door uitzonderingen op het auteursrecht.
+Daarnaast ontwikkelen we producten waarmee creators makkelijker dan ooit toegang hebben tot informatie en informatie kunnen maken en delen. We hebben eenAudiobibliotheekopgezet met kosteloze muziek en geluidseffecten van hoge kwaliteit die je veilig kunt gebruiken. En met YouTube Shorts kun je nu ookkorte video's met gesamplede content van anderen makenals die ander daar toestemming voor geeft. Daarnaast breiden weCreator Musicvoortdurend verder uit. Daarmee kunnen creators in het YouTube-partnerprogramma commerciële muziek gebruiken door een licentie aan te vragen voor tracks of door de video-opbrengst te delen met de houders van de muziekrechten.
+HulpmiddelenMeer informatie over Fair Use
+HulpmiddelenMeer informatie over Fair Use
+HulpmiddelenMeer informatie over Fair Use
+HulpmiddelenMeer informatie over Fair Use
+Hulpmiddelen
+Meer informatie over Fair Use
+Hoe kunnen rechthebbenden auteursrechtclaims indienen?Iedereen heeft toegang tot de tools voor auteursrechtbeheer van YouTube. Hiermee hebben rechthebbenden controle over hun auteursrechtelijk beschermde materiaal op YouTube. We werken samen met rechthebbenden en koppelen ze aan de juiste functies op basis van hoeveel auteursrechtelijk beschermde content ze op YouTube hebben staan en wat ze aan resources hebben ingezet om hun online content op een verantwoordelijke manier te beheren.  Onze Copyright Management Suite biedt rechthebbenden verschillende manieren om auteursrechtclaims in te dienen.WebformulierDe eenvoudigste manier om ongeautoriseerde kopieën van auteursrechtelijk beschermde content te laten verwijderen, is door handmatig een auteursrechtmelding in te dienen via onsDMCA-webformulier (Digital Millennium Copyright Act). Deze tool is voor de meeste gebruikers de beste optie. Het formulier kan door iedereen worden gebruikt en is in elke taal beschikbaar.Copyright Match ToolDeCopyright Match Toolvindt geüploade kopieën van video's op YouTube via technologie voor Content ID-overeenkomsten. De tool is beschikbaar voor meer dan 1,5 miljoen kanalen en identificeert nieuwe uploads op andere YouTube-kanalen die bijna helemaal overeenkomen met de originele video's van een creator. De creator kan daarna een verwijderingsverzoek indienen voor de video, de uploader een bericht sturen of de overeenkomst alleen archiveren en verder geen actie ondernemen. Iedere gebruiker die eerder via ons webformulier succesvolle DMCA-verwijderingen heeft uitgevoerd, kan toegang tot de tool aanvragen via ons openbare formulier.Content IDContent IDis onze oplossing voor rechthebbenden bij wie het rechtenbeheer het ingewikkeldst is. In dit systeem gebruiken we digitale vingerafdrukken. Rechthebbenden kunnen content waarop zij de exclusieve rechten hebben, uploaden als referentiebestanden. Vervolgens worden naar YouTube geüploade video's gescand op overeenkomsten met die content. Als een gebruiker content uploadt, controleert Content ID of de database video's bevat waarmee de content overeenkomt. Als er een overeenkomst wordt gevonden, is de actie die wordt ondernomen afhankelijk van het beleid dat de contenteigenaar zelf vooraf heeft ingesteld:Een hele video blokkeren zodat deze niet kan worden bekeken. Creators krijgen geen waarschuwing vanwege auteursrechtklacht als de contenteigenaar een video blokkeert.Inkomsten genereren met de video door er advertenties bij weer te geven en in sommige gevallen opbrengsten te delen met de gebruiker die de video heeft geüpload.De statistieken over de kijkers van de video monitoren.In de meeste gevallen betekent dit dat rechthebbenden geen verwijderingsverzoek vanwege auteursrechtschending hoeven in te dienen voor deze video's. In plaats daarvan kunnen ze inkomsten genereren en advertenties tonen als compensatie voor het feit dat de video's live zijn.HulpmiddelenMeer informatie over de Copyright Management Tools van YouTubeMeer informatie over sancties voor auteursrechtschending
+Iedereen heeft toegang tot de tools voor auteursrechtbeheer van YouTube. Hiermee hebben rechthebbenden controle over hun auteursrechtelijk beschermde materiaal op YouTube. We werken samen met rechthebbenden en koppelen ze aan de juiste functies op basis van hoeveel auteursrechtelijk beschermde content ze op YouTube hebben staan en wat ze aan resources hebben ingezet om hun online content op een verantwoordelijke manier te beheren.  Onze Copyright Management Suite biedt rechthebbenden verschillende manieren om auteursrechtclaims in te dienen.
+De eenvoudigste manier om ongeautoriseerde kopieën van auteursrechtelijk beschermde content te laten verwijderen, is door handmatig een auteursrechtmelding in te dienen via onsDMCA-webformulier (Digital Millennium Copyright Act). Deze tool is voor de meeste gebruikers de beste optie. Het formulier kan door iedereen worden gebruikt en is in elke taal beschikbaar.
+DeCopyright Match Toolvindt geüploade kopieën van video's op YouTube via technologie voor Content ID-overeenkomsten. De tool is beschikbaar voor meer dan 1,5 miljoen kanalen en identificeert nieuwe uploads op andere YouTube-kanalen die bijna helemaal overeenkomen met de originele video's van een creator. De creator kan daarna een verwijderingsverzoek indienen voor de video, de uploader een bericht sturen of de overeenkomst alleen archiveren en verder geen actie ondernemen. Iedere gebruiker die eerder via ons webformulier succesvolle DMCA-verwijderingen heeft uitgevoerd, kan toegang tot de tool aanvragen via ons openbare formulier.
+Content IDis onze oplossing voor rechthebbenden bij wie het rechtenbeheer het ingewikkeldst is. In dit systeem gebruiken we digitale vingerafdrukken. Rechthebbenden kunnen content waarop zij de exclusieve rechten hebben, uploaden als referentiebestanden. Vervolgens worden naar YouTube geüploade video's gescand op overeenkomsten met die content. Als een gebruiker content uploadt, controleert Content ID of de database video's bevat waarmee de content overeenkomt. Als er een overeenkomst wordt gevonden, is de actie die wordt ondernomen afhankelijk van het beleid dat de contenteigenaar zelf vooraf heeft ingesteld:
+In de meeste gevallen betekent dit dat rechthebbenden geen verwijderingsverzoek vanwege auteursrechtschending hoeven in te dienen voor deze video's. In plaats daarvan kunnen ze inkomsten genereren en advertenties tonen als compensatie voor het feit dat de video's live zijn.
+HulpmiddelenMeer informatie over de Copyright Management Tools van YouTubeMeer informatie over sancties voor auteursrechtschending
+HulpmiddelenMeer informatie over de Copyright Management Tools van YouTubeMeer informatie over sancties voor auteursrechtschending
+HulpmiddelenMeer informatie over de Copyright Management Tools van YouTubeMeer informatie over sancties voor auteursrechtschending
+HulpmiddelenMeer informatie over de Copyright Management Tools van YouTubeMeer informatie over sancties voor auteursrechtschending
+Hulpmiddelen
+Meer informatie over de Copyright Management Tools van YouTube
+Meer informatie over sancties voor auteursrechtschending
+Welke acties onderneemt YouTube bij inbreuken op het auteursrecht?Als een auteursrechteigenaar succesvol een DMCA-klacht indient via ons webformulier, verwijderen we die video en sturen we een waarschuwing vanwege auteursrechtklacht. Als een gebruiker driemaal een waarschuwing vanwege auteursrechtklacht krijgt binnen een periode van 90 dagen, wordt hun account en eventuele bijhorende kanalen gedeactiveerd. We bieden bovendien ook oplossingen aan creators om antwoord te bieden op hun waarschuwingen. Ze kunnen 90 dagen wachten tot de waarschuwing verlopen is, een intrekking van de waarschuwing aanvragen of een tegenkennisgeving indienen.Content IDwerkt anders. Als er een match is tussen een referentiebestand en een nieuwe upload, wordt er een ‘claim’ ingediend. Op basis van de voorkeursinstellingen van de Content ID-eigenaar gaan wij de video volgen, monetiseren of blokkeren, maar geen waarschuwing voor auteursrechtklacht versturen.HulpmiddelenMeer informatie over sancties voor copyrightschendingEen claim voor auteursrechtschending intrekkenEen tegenkennisgeving indienen
+Als een auteursrechteigenaar succesvol een DMCA-klacht indient via ons webformulier, verwijderen we die video en sturen we een waarschuwing vanwege auteursrechtklacht. Als een gebruiker driemaal een waarschuwing vanwege auteursrechtklacht krijgt binnen een periode van 90 dagen, wordt hun account en eventuele bijhorende kanalen gedeactiveerd. We bieden bovendien ook oplossingen aan creators om antwoord te bieden op hun waarschuwingen. Ze kunnen 90 dagen wachten tot de waarschuwing verlopen is, een intrekking van de waarschuwing aanvragen of een tegenkennisgeving indienen.
+Content IDwerkt anders. Als er een match is tussen een referentiebestand en een nieuwe upload, wordt er een ‘claim’ ingediend. Op basis van de voorkeursinstellingen van de Content ID-eigenaar gaan wij de video volgen, monetiseren of blokkeren, maar geen waarschuwing voor auteursrechtklacht versturen.
+HulpmiddelenMeer informatie over sancties voor copyrightschendingEen claim voor auteursrechtschending intrekkenEen tegenkennisgeving indienen
+HulpmiddelenMeer informatie over sancties voor copyrightschendingEen claim voor auteursrechtschending intrekkenEen tegenkennisgeving indienen
+HulpmiddelenMeer informatie over sancties voor copyrightschendingEen claim voor auteursrechtschending intrekkenEen tegenkennisgeving indienen
+HulpmiddelenMeer informatie over sancties voor copyrightschendingEen claim voor auteursrechtschending intrekkenEen tegenkennisgeving indienen
+Hulpmiddelen
+Meer informatie over sancties voor copyrightschending
+Een claim voor auteursrechtschending intrekken
+Een tegenkennisgeving indienen
+Gerelateerde artikelenCommunityrichtlijnenMeer lezenContentpiraterij voorkomenMeer lezenMonetisatiebeleidMeer lezen
+Gerelateerde artikelenCommunityrichtlijnenMeer lezenContentpiraterij voorkomenMeer lezenMonetisatiebeleidMeer lezen
+Meer lezen
+Meer lezen
+Meer lezen
+
+=== https://www.youtube.com/creators/ ===
+AI will unlock powerful new forms of creative expression for
+creators on YouTube.Read how.
+AI will unlock powerful new forms of creative expression for
+creators on YouTube.Read how.
+AI will unlock powerful new forms of creative expression for
+creators on YouTube.Read how.
+Everything you need to create on YouTubeNo matter what kind of information, advice, or help you’re looking
+for, this is the spot.
+Everything you need to create on YouTubeNo matter what kind of information, advice, or help you’re looking
+for, this is the spot.
+Everything you need to create on YouTubeNo matter what kind of information, advice, or help you’re looking
+for, this is the spot.
+No matter what kind of information, advice, or help you’re looking
+for, this is the spot.
+FeaturedStart your earning journey earlierCreators can now qualify to apply to the YouTube Partner Program
+and start their earning journey earlier, with access to fan
+funding, select Shopping features, and more.See all the details
+FeaturedStart your earning journey earlierCreators can now qualify to apply to the YouTube Partner Program
+and start their earning journey earlier, with access to fan
+funding, select Shopping features, and more.See all the details
+FeaturedStart your earning journey earlierCreators can now qualify to apply to the YouTube Partner Program
+and start their earning journey earlier, with access to fan
+funding, select Shopping features, and more.See all the details
+Featured
+Creators can now qualify to apply to the YouTube Partner Program
+and start their earning journey earlier, with access to fan
+funding, select Shopping features, and more.
+How things workGetting started on YouTubeEverything you need to create and manage a channel.Building your communityTips & tricks to find, nurture, and build an audience.How to make money on YouTubeExplore all ways you can get paid on YouTube.Growing your channelTools to help you create, connect, and grow.Policies & GuidelinesGet the explanations behind the rules.How to get involvedHow we support, recognize, and celebrate Creators.
+Getting started on YouTubeEverything you need to create and manage a channel.
+Everything you need to create and manage a channel.
+Building your communityTips & tricks to find, nurture, and build an audience.
+Tips & tricks to find, nurture, and build an audience.
+How to make money on YouTubeExplore all ways you can get paid on YouTube.
+Explore all ways you can get paid on YouTube.
+Growing your channelTools to help you create, connect, and grow.
+Tools to help you create, connect, and grow.
+Policies & GuidelinesGet the explanations behind the rules.
+Get the explanations behind the rules.
+How to get involvedHow we support, recognize, and celebrate Creators.
+How we support, recognize, and celebrate Creators.
+Top questionsCreators have questions and we’ve got answers. We compiled the
+most common questions we get with answers, plus links to helpful
+how tos and help center articles. So you can get all the info
+you need, fast.01How do I start creating on YouTube?02How do I grow my channel?03How do I make edits to my channel?04How do I promote my videos?05How does the algorithm work?Creator basics: how to set up and customize
+your channelThere are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything
+from Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to
+start by creating a YouTube Channel.First you need to sign into YouTube using a
+Google Account.Once you’re signed in, click ‘Create Account’,
+and choose whether it’s for you or for your
+business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and
+create Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your
+YouTube account and then click on the “Create”
+icon.If you’re planning to upload a longer form
+video, select “upload video” and then choose
+your desired video file - you can upload 15
+files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite
+of lightweight tools.Help your videos stand out & keep viewers
+watchingGrowing your channel is all about creating videos
+viewers want to watch and accurately presenting
+them to the audience. When doing so, here’s a few
+tips to keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what
+they can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through
+the video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.Navigating YouTube StudioYouTube Studio is your home base for posting
+videos and making edits to your channel. To update
+your channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using
+the Studio Mobile app. You can tap ‘Your Channel’
+and then ‘Edit Channel’ to update and edit how
+your channel looks to your viewers. Note that you
+can only change your channel’s name three times
+every 90 days.Read more about managing your channelPromoting your videosPromoting your videos is all about getting the
+word out there. On YouTube, you can use tools like
+cards, end screens, Stories, and Community Posts
+to drive viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts,
+or platforms that align with your content and your
+intended audience.Read more about promoting your videosHow YouTube recommends videos using "the
+algorithm"Our search and discovery systems are built to find
+videos that match viewers’ individual interests.
+Werecommend videosbased on things such as: what your audience
+watches and doesn’t watch, how much time they
+spend watching, what they like and dislike, if
+they mark a video as ‘not interested’, and on
+satisfaction surveys.So, rather than trying trying to find a secret
+code to these systems, focus instead on making
+videos that you think will resonate with your
+audience. A great tool here is YouTube Analytics,
+which provides data that can help you understand
+how your existing content is performing and
+provide insights for future videos!01How do I start creating on YouTube?Creator basics: how to set up and customize your
+channelThere are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything from
+Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to start
+by creating a YouTube Channel.First you need to sign into YouTube using a Google
+Account.Once you’re signed in, click ‘Create Account’, and
+choose whether it’s for you or for your business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and create
+Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your YouTube
+account and then click on the “Create” icon.If you’re planning to upload a longer form video,
+select “upload video” and then choose your desired
+video file - you can upload 15 files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite of
+lightweight tools.02How do I grow my channel?Help your videos stand out & keep viewers
+watchingGrowing your channel is all about creating videos
+viewers want to watch and accurately presenting them
+to the audience. When doing so, here’s a few tips to
+keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what they
+can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through the
+video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.03How do I make edits to my channel?Navigating YouTube StudioYouTube Studio is your home base for posting videos
+and making edits to your channel. To update your
+channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using the
+Studio Mobile app. You can tap ‘Your Channel’ and
+then ‘Edit Channel’ to update and edit how your
+channel looks to your viewers. Note that you can
+only change your channel’s name three times every 90
+days.Read more about managing your channel04How do I promote my videos?Promoting your videosPromoting your videos is all about getting the word
+out there. On YouTube, you can use tools like cards,
+end screens, Stories, and Community Posts to drive
+viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts, or
+platforms that align with your content and your
+intended audience.Read more about promoting your videos05How does the algorithm work?How YouTube recommends videos using "the
+algorithm"Our search and discovery systems are built to find
+videos that match viewers’ individual interests. Werecommend videosbased on things such as: what your audience watches
+and doesn’t watch, how much time they spend
+watching, what they like and dislike, if they mark a
+video as ‘not interested’, and on satisfaction
+surveys.So, rather than trying trying to find a secret code
+to these systems, focus instead on making videos
+that you think will resonate with your audience. A
+great tool here is YouTube Analytics, which provides
+data that can help you understand how your existing
+content is performing and provide insights for
+future videos!See all questions
+Top questionsCreators have questions and we’ve got answers. We compiled the
+most common questions we get with answers, plus links to helpful
+how tos and help center articles. So you can get all the info
+you need, fast.01How do I start creating on YouTube?02How do I grow my channel?03How do I make edits to my channel?04How do I promote my videos?05How does the algorithm work?Creator basics: how to set up and customize
+your channelThere are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything
+from Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to
+start by creating a YouTube Channel.First you need to sign into YouTube using a
+Google Account.Once you’re signed in, click ‘Create Account’,
+and choose whether it’s for you or for your
+business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and
+create Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your
+YouTube account and then click on the “Create”
+icon.If you’re planning to upload a longer form
+video, select “upload video” and then choose
+your desired video file - you can upload 15
+files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite
+of lightweight tools.Help your videos stand out & keep viewers
+watchingGrowing your channel is all about creating videos
+viewers want to watch and accurately presenting
+them to the audience. When doing so, here’s a few
+tips to keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what
+they can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through
+the video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.Navigating YouTube StudioYouTube Studio is your home base for posting
+videos and making edits to your channel. To update
+your channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using
+the Studio Mobile app. You can tap ‘Your Channel’
+and then ‘Edit Channel’ to update and edit how
+your channel looks to your viewers. Note that you
+can only change your channel’s name three times
+every 90 days.Read more about managing your channelPromoting your videosPromoting your videos is all about getting the
+word out there. On YouTube, you can use tools like
+cards, end screens, Stories, and Community Posts
+to drive viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts,
+or platforms that align with your content and your
+intended audience.Read more about promoting your videosHow YouTube recommends videos using "the
+algorithm"Our search and discovery systems are built to find
+videos that match viewers’ individual interests.
+Werecommend videosbased on things such as: what your audience
+watches and doesn’t watch, how much time they
+spend watching, what they like and dislike, if
+they mark a video as ‘not interested’, and on
+satisfaction surveys.So, rather than trying trying to find a secret
+code to these systems, focus instead on making
+videos that you think will resonate with your
+audience. A great tool here is YouTube Analytics,
+which provides data that can help you understand
+how your existing content is performing and
+provide insights for future videos!01How do I start creating on YouTube?Creator basics: how to set up and customize your
+channelThere are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything from
+Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to start
+by creating a YouTube Channel.First you need to sign into YouTube using a Google
+Account.Once you’re signed in, click ‘Create Account’, and
+choose whether it’s for you or for your business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and create
+Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your YouTube
+account and then click on the “Create” icon.If you’re planning to upload a longer form video,
+select “upload video” and then choose your desired
+video file - you can upload 15 files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite of
+lightweight tools.02How do I grow my channel?Help your videos stand out & keep viewers
+watchingGrowing your channel is all about creating videos
+viewers want to watch and accurately presenting them
+to the audience. When doing so, here’s a few tips to
+keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what they
+can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through the
+video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.03How do I make edits to my channel?Navigating YouTube StudioYouTube Studio is your home base for posting videos
+and making edits to your channel. To update your
+channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using the
+Studio Mobile app. You can tap ‘Your Channel’ and
+then ‘Edit Channel’ to update and edit how your
+channel looks to your viewers. Note that you can
+only change your channel’s name three times every 90
+days.Read more about managing your channel04How do I promote my videos?Promoting your videosPromoting your videos is all about getting the word
+out there. On YouTube, you can use tools like cards,
+end screens, Stories, and Community Posts to drive
+viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts, or
+platforms that align with your content and your
+intended audience.Read more about promoting your videos05How does the algorithm work?How YouTube recommends videos using "the
+algorithm"Our search and discovery systems are built to find
+videos that match viewers’ individual interests. Werecommend videosbased on things such as: what your audience watches
+and doesn’t watch, how much time they spend
+watching, what they like and dislike, if they mark a
+video as ‘not interested’, and on satisfaction
+surveys.So, rather than trying trying to find a secret code
+to these systems, focus instead on making videos
+that you think will resonate with your audience. A
+great tool here is YouTube Analytics, which provides
+data that can help you understand how your existing
+content is performing and provide insights for
+future videos!
+Creators have questions and we’ve got answers. We compiled the
+most common questions we get with answers, plus links to helpful
+how tos and help center articles. So you can get all the info
+you need, fast.
+Creators have questions and we’ve got answers. We compiled the
+most common questions we get with answers, plus links to helpful
+how tos and help center articles. So you can get all the info
+you need, fast.
+Creators have questions and we’ve got answers. We compiled the
+most common questions we get with answers, plus links to helpful
+how tos and help center articles. So you can get all the info
+you need, fast.
+01How do I start creating on YouTube?02How do I grow my channel?03How do I make edits to my channel?04How do I promote my videos?05How does the algorithm work?Creator basics: how to set up and customize
+your channelThere are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything
+from Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to
+start by creating a YouTube Channel.First you need to sign into YouTube using a
+Google Account.Once you’re signed in, click ‘Create Account’,
+and choose whether it’s for you or for your
+business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and
+create Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your
+YouTube account and then click on the “Create”
+icon.If you’re planning to upload a longer form
+video, select “upload video” and then choose
+your desired video file - you can upload 15
+files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite
+of lightweight tools.Help your videos stand out & keep viewers
+watchingGrowing your channel is all about creating videos
+viewers want to watch and accurately presenting
+them to the audience. When doing so, here’s a few
+tips to keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what
+they can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through
+the video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.Navigating YouTube StudioYouTube Studio is your home base for posting
+videos and making edits to your channel. To update
+your channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using
+the Studio Mobile app. You can tap ‘Your Channel’
+and then ‘Edit Channel’ to update and edit how
+your channel looks to your viewers. Note that you
+can only change your channel’s name three times
+every 90 days.Read more about managing your channelPromoting your videosPromoting your videos is all about getting the
+word out there. On YouTube, you can use tools like
+cards, end screens, Stories, and Community Posts
+to drive viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts,
+or platforms that align with your content and your
+intended audience.Read more about promoting your videosHow YouTube recommends videos using "the
+algorithm"Our search and discovery systems are built to find
+videos that match viewers’ individual interests.
+Werecommend videosbased on things such as: what your audience
+watches and doesn’t watch, how much time they
+spend watching, what they like and dislike, if
+they mark a video as ‘not interested’, and on
+satisfaction surveys.So, rather than trying trying to find a secret
+code to these systems, focus instead on making
+videos that you think will resonate with your
+audience. A great tool here is YouTube Analytics,
+which provides data that can help you understand
+how your existing content is performing and
+provide insights for future videos!01How do I start creating on YouTube?Creator basics: how to set up and customize your
+channelThere are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything from
+Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to start
+by creating a YouTube Channel.First you need to sign into YouTube using a Google
+Account.Once you’re signed in, click ‘Create Account’, and
+choose whether it’s for you or for your business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and create
+Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your YouTube
+account and then click on the “Create” icon.If you’re planning to upload a longer form video,
+select “upload video” and then choose your desired
+video file - you can upload 15 files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite of
+lightweight tools.02How do I grow my channel?Help your videos stand out & keep viewers
+watchingGrowing your channel is all about creating videos
+viewers want to watch and accurately presenting them
+to the audience. When doing so, here’s a few tips to
+keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what they
+can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through the
+video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.03How do I make edits to my channel?Navigating YouTube StudioYouTube Studio is your home base for posting videos
+and making edits to your channel. To update your
+channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using the
+Studio Mobile app. You can tap ‘Your Channel’ and
+then ‘Edit Channel’ to update and edit how your
+channel looks to your viewers. Note that you can
+only change your channel’s name three times every 90
+days.Read more about managing your channel04How do I promote my videos?Promoting your videosPromoting your videos is all about getting the word
+out there. On YouTube, you can use tools like cards,
+end screens, Stories, and Community Posts to drive
+viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts, or
+platforms that align with your content and your
+intended audience.Read more about promoting your videos05How does the algorithm work?How YouTube recommends videos using "the
+algorithm"Our search and discovery systems are built to find
+videos that match viewers’ individual interests. Werecommend videosbased on things such as: what your audience watches
+and doesn’t watch, how much time they spend
+watching, what they like and dislike, if they mark a
+video as ‘not interested’, and on satisfaction
+surveys.So, rather than trying trying to find a secret code
+to these systems, focus instead on making videos
+that you think will resonate with your audience. A
+great tool here is YouTube Analytics, which provides
+data that can help you understand how your existing
+content is performing and provide insights for
+future videos!
+01How do I start creating on YouTube?02How do I grow my channel?03How do I make edits to my channel?04How do I promote my videos?05How does the algorithm work?Creator basics: how to set up and customize
+your channelThere are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything
+from Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to
+start by creating a YouTube Channel.First you need to sign into YouTube using a
+Google Account.Once you’re signed in, click ‘Create Account’,
+and choose whether it’s for you or for your
+business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and
+create Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your
+YouTube account and then click on the “Create”
+icon.If you’re planning to upload a longer form
+video, select “upload video” and then choose
+your desired video file - you can upload 15
+files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite
+of lightweight tools.Help your videos stand out & keep viewers
+watchingGrowing your channel is all about creating videos
+viewers want to watch and accurately presenting
+them to the audience. When doing so, here’s a few
+tips to keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what
+they can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through
+the video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.Navigating YouTube StudioYouTube Studio is your home base for posting
+videos and making edits to your channel. To update
+your channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using
+the Studio Mobile app. You can tap ‘Your Channel’
+and then ‘Edit Channel’ to update and edit how
+your channel looks to your viewers. Note that you
+can only change your channel’s name three times
+every 90 days.Read more about managing your channelPromoting your videosPromoting your videos is all about getting the
+word out there. On YouTube, you can use tools like
+cards, end screens, Stories, and Community Posts
+to drive viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts,
+or platforms that align with your content and your
+intended audience.Read more about promoting your videosHow YouTube recommends videos using "the
+algorithm"Our search and discovery systems are built to find
+videos that match viewers’ individual interests.
+Werecommend videosbased on things such as: what your audience
+watches and doesn’t watch, how much time they
+spend watching, what they like and dislike, if
+they mark a video as ‘not interested’, and on
+satisfaction surveys.So, rather than trying trying to find a secret
+code to these systems, focus instead on making
+videos that you think will resonate with your
+audience. A great tool here is YouTube Analytics,
+which provides data that can help you understand
+how your existing content is performing and
+provide insights for future videos!
+01How do I start creating on YouTube?02How do I grow my channel?03How do I make edits to my channel?04How do I promote my videos?05How does the algorithm work?Creator basics: how to set up and customize
+your channelThere are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything
+from Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to
+start by creating a YouTube Channel.First you need to sign into YouTube using a
+Google Account.Once you’re signed in, click ‘Create Account’,
+and choose whether it’s for you or for your
+business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and
+create Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your
+YouTube account and then click on the “Create”
+icon.If you’re planning to upload a longer form
+video, select “upload video” and then choose
+your desired video file - you can upload 15
+files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite
+of lightweight tools.Help your videos stand out & keep viewers
+watchingGrowing your channel is all about creating videos
+viewers want to watch and accurately presenting
+them to the audience. When doing so, here’s a few
+tips to keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what
+they can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through
+the video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.Navigating YouTube StudioYouTube Studio is your home base for posting
+videos and making edits to your channel. To update
+your channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using
+the Studio Mobile app. You can tap ‘Your Channel’
+and then ‘Edit Channel’ to update and edit how
+your channel looks to your viewers. Note that you
+can only change your channel’s name three times
+every 90 days.Read more about managing your channelPromoting your videosPromoting your videos is all about getting the
+word out there. On YouTube, you can use tools like
+cards, end screens, Stories, and Community Posts
+to drive viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts,
+or platforms that align with your content and your
+intended audience.Read more about promoting your videosHow YouTube recommends videos using "the
+algorithm"Our search and discovery systems are built to find
+videos that match viewers’ individual interests.
+Werecommend videosbased on things such as: what your audience
+watches and doesn’t watch, how much time they
+spend watching, what they like and dislike, if
+they mark a video as ‘not interested’, and on
+satisfaction surveys.So, rather than trying trying to find a secret
+code to these systems, focus instead on making
+videos that you think will resonate with your
+audience. A great tool here is YouTube Analytics,
+which provides data that can help you understand
+how your existing content is performing and
+provide insights for future videos!
+01How do I start creating on YouTube?02How do I grow my channel?03How do I make edits to my channel?04How do I promote my videos?05How does the algorithm work?
+Creator basics: how to set up and customize
+your channelThere are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything
+from Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to
+start by creating a YouTube Channel.First you need to sign into YouTube using a
+Google Account.Once you’re signed in, click ‘Create Account’,
+and choose whether it’s for you or for your
+business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and
+create Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your
+YouTube account and then click on the “Create”
+icon.If you’re planning to upload a longer form
+video, select “upload video” and then choose
+your desired video file - you can upload 15
+files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite
+of lightweight tools.Help your videos stand out & keep viewers
+watchingGrowing your channel is all about creating videos
+viewers want to watch and accurately presenting
+them to the audience. When doing so, here’s a few
+tips to keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what
+they can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through
+the video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.Navigating YouTube StudioYouTube Studio is your home base for posting
+videos and making edits to your channel. To update
+your channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using
+the Studio Mobile app. You can tap ‘Your Channel’
+and then ‘Edit Channel’ to update and edit how
+your channel looks to your viewers. Note that you
+can only change your channel’s name three times
+every 90 days.Read more about managing your channelPromoting your videosPromoting your videos is all about getting the
+word out there. On YouTube, you can use tools like
+cards, end screens, Stories, and Community Posts
+to drive viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts,
+or platforms that align with your content and your
+intended audience.Read more about promoting your videosHow YouTube recommends videos using "the
+algorithm"Our search and discovery systems are built to find
+videos that match viewers’ individual interests.
+Werecommend videosbased on things such as: what your audience
+watches and doesn’t watch, how much time they
+spend watching, what they like and dislike, if
+they mark a video as ‘not interested’, and on
+satisfaction surveys.So, rather than trying trying to find a secret
+code to these systems, focus instead on making
+videos that you think will resonate with your
+audience. A great tool here is YouTube Analytics,
+which provides data that can help you understand
+how your existing content is performing and
+provide insights for future videos!
+Creator basics: how to set up and customize
+your channelThere are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything
+from Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to
+start by creating a YouTube Channel.First you need to sign into YouTube using a
+Google Account.Once you’re signed in, click ‘Create Account’,
+and choose whether it’s for you or for your
+business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and
+create Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your
+YouTube account and then click on the “Create”
+icon.If you’re planning to upload a longer form
+video, select “upload video” and then choose
+your desired video file - you can upload 15
+files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite
+of lightweight tools.
+Creator basics: how to set up and customize
+your channelThere are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything
+from Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to
+start by creating a YouTube Channel.First you need to sign into YouTube using a
+Google Account.Once you’re signed in, click ‘Create Account’,
+and choose whether it’s for you or for your
+business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and
+create Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your
+YouTube account and then click on the “Create”
+icon.If you’re planning to upload a longer form
+video, select “upload video” and then choose
+your desired video file - you can upload 15
+files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite
+of lightweight tools.
+Creator basics: how to set up and customize
+your channelThere are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything
+from Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to
+start by creating a YouTube Channel.First you need to sign into YouTube using a
+Google Account.Once you’re signed in, click ‘Create Account’,
+and choose whether it’s for you or for your
+business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and
+create Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your
+YouTube account and then click on the “Create”
+icon.If you’re planning to upload a longer form
+video, select “upload video” and then choose
+your desired video file - you can upload 15
+files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite
+of lightweight tools.
+Creator basics: how to set up and customize
+your channelThere are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything
+from Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to
+start by creating a YouTube Channel.First you need to sign into YouTube using a
+Google Account.Once you’re signed in, click ‘Create Account’,
+and choose whether it’s for you or for your
+business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and
+create Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your
+YouTube account and then click on the “Create”
+icon.If you’re planning to upload a longer form
+video, select “upload video” and then choose
+your desired video file - you can upload 15
+files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite
+of lightweight tools.
+Creator basics: how to set up and customize
+your channel
+Creator basics: how to set up and customize
+your channel
+Creator basics: how to set up and customize
+your channel
+There are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything
+from Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to
+start by creating a YouTube Channel.First you need to sign into YouTube using a
+Google Account.Once you’re signed in, click ‘Create Account’,
+and choose whether it’s for you or for your
+business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and
+create Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your
+YouTube account and then click on the “Create”
+icon.If you’re planning to upload a longer form
+video, select “upload video” and then choose
+your desired video file - you can upload 15
+files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite
+of lightweight tools.
+There are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything
+from Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.
+No matter what you’re creating, you’ll need to
+start by creating a YouTube Channel.
+Next, you’ll want to upload your videos!
+Help your videos stand out & keep viewers
+watchingGrowing your channel is all about creating videos
+viewers want to watch and accurately presenting
+them to the audience. When doing so, here’s a few
+tips to keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what
+they can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through
+the video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.
+Help your videos stand out & keep viewers
+watchingGrowing your channel is all about creating videos
+viewers want to watch and accurately presenting
+them to the audience. When doing so, here’s a few
+tips to keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what
+they can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through
+the video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.
+Help your videos stand out & keep viewers
+watchingGrowing your channel is all about creating videos
+viewers want to watch and accurately presenting
+them to the audience. When doing so, here’s a few
+tips to keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what
+they can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through
+the video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.
+Help your videos stand out & keep viewers
+watchingGrowing your channel is all about creating videos
+viewers want to watch and accurately presenting
+them to the audience. When doing so, here’s a few
+tips to keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what
+they can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through
+the video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.
+Help your videos stand out & keep viewers
+watching
+Help your videos stand out & keep viewers
+watching
+Help your videos stand out & keep viewers
+watching
+Growing your channel is all about creating videos
+viewers want to watch and accurately presenting
+them to the audience. When doing so, here’s a few
+tips to keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what
+they can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through
+the video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.
+Growing your channel is all about creating videos
+viewers want to watch and accurately presenting
+them to the audience. When doing so, here’s a few
+tips to keep in mind.
+With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what
+they can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through
+the video feed!
+Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.
+Navigating YouTube StudioYouTube Studio is your home base for posting
+videos and making edits to your channel. To update
+your channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using
+the Studio Mobile app. You can tap ‘Your Channel’
+and then ‘Edit Channel’ to update and edit how
+your channel looks to your viewers. Note that you
+can only change your channel’s name three times
+every 90 days.Read more about managing your channel
+Navigating YouTube StudioYouTube Studio is your home base for posting
+videos and making edits to your channel. To update
+your channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using
+the Studio Mobile app. You can tap ‘Your Channel’
+and then ‘Edit Channel’ to update and edit how
+your channel looks to your viewers. Note that you
+can only change your channel’s name three times
+every 90 days.Read more about managing your channel
+Navigating YouTube StudioYouTube Studio is your home base for posting
+videos and making edits to your channel. To update
+your channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using
+the Studio Mobile app. You can tap ‘Your Channel’
+and then ‘Edit Channel’ to update and edit how
+your channel looks to your viewers. Note that you
+can only change your channel’s name three times
+every 90 days.Read more about managing your channel
+Navigating YouTube StudioYouTube Studio is your home base for posting
+videos and making edits to your channel. To update
+your channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using
+the Studio Mobile app. You can tap ‘Your Channel’
+and then ‘Edit Channel’ to update and edit how
+your channel looks to your viewers. Note that you
+can only change your channel’s name three times
+every 90 days.Read more about managing your channel
+Navigating YouTube Studio
+Navigating YouTube Studio
+Navigating YouTube Studio
+YouTube Studio is your home base for posting
+videos and making edits to your channel. To update
+your channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using
+the Studio Mobile app. You can tap ‘Your Channel’
+and then ‘Edit Channel’ to update and edit how
+your channel looks to your viewers. Note that you
+can only change your channel’s name three times
+every 90 days.Read more about managing your channel
+YouTube Studio is your home base for posting
+videos and making edits to your channel. To update
+your channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.
+You can also make changes to your channel using
+the Studio Mobile app. You can tap ‘Your Channel’
+and then ‘Edit Channel’ to update and edit how
+your channel looks to your viewers. Note that you
+can only change your channel’s name three times
+every 90 days.
+Read more about managing your channel
+Promoting your videosPromoting your videos is all about getting the
+word out there. On YouTube, you can use tools like
+cards, end screens, Stories, and Community Posts
+to drive viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts,
+or platforms that align with your content and your
+intended audience.Read more about promoting your videos
+Promoting your videosPromoting your videos is all about getting the
+word out there. On YouTube, you can use tools like
+cards, end screens, Stories, and Community Posts
+to drive viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts,
+or platforms that align with your content and your
+intended audience.Read more about promoting your videos
+Promoting your videosPromoting your videos is all about getting the
+word out there. On YouTube, you can use tools like
+cards, end screens, Stories, and Community Posts
+to drive viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts,
+or platforms that align with your content and your
+intended audience.Read more about promoting your videos
+Promoting your videosPromoting your videos is all about getting the
+word out there. On YouTube, you can use tools like
+cards, end screens, Stories, and Community Posts
+to drive viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts,
+or platforms that align with your content and your
+intended audience.Read more about promoting your videos
+Promoting your videos
+Promoting your videos
+Promoting your videos
+Promoting your videos is all about getting the
+word out there. On YouTube, you can use tools like
+cards, end screens, Stories, and Community Posts
+to drive viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts,
+or platforms that align with your content and your
+intended audience.Read more about promoting your videos
+Promoting your videos is all about getting the
+word out there. On YouTube, you can use tools like
+cards, end screens, Stories, and Community Posts
+to drive viewers to a specific piece of content!
+Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts,
+or platforms that align with your content and your
+intended audience.
+Read more about promoting your videos
+How YouTube recommends videos using "the
+algorithm"Our search and discovery systems are built to find
+videos that match viewers’ individual interests.
+Werecommend videosbased on things such as: what your audience
+watches and doesn’t watch, how much time they
+spend watching, what they like and dislike, if
+they mark a video as ‘not interested’, and on
+satisfaction surveys.So, rather than trying trying to find a secret
+code to these systems, focus instead on making
+videos that you think will resonate with your
+audience. A great tool here is YouTube Analytics,
+which provides data that can help you understand
+how your existing content is performing and
+provide insights for future videos!
+How YouTube recommends videos using "the
+algorithm"Our search and discovery systems are built to find
+videos that match viewers’ individual interests.
+Werecommend videosbased on things such as: what your audience
+watches and doesn’t watch, how much time they
+spend watching, what they like and dislike, if
+they mark a video as ‘not interested’, and on
+satisfaction surveys.So, rather than trying trying to find a secret
+code to these systems, focus instead on making
+videos that you think will resonate with your
+audience. A great tool here is YouTube Analytics,
+which provides data that can help you understand
+how your existing content is performing and
+provide insights for future videos!
+How YouTube recommends videos using "the
+algorithm"Our search and discovery systems are built to find
+videos that match viewers’ individual interests.
+Werecommend videosbased on things such as: what your audience
+watches and doesn’t watch, how much time they
+spend watching, what they like and dislike, if
+they mark a video as ‘not interested’, and on
+satisfaction surveys.So, rather than trying trying to find a secret
+code to these systems, focus instead on making
+videos that you think will resonate with your
+audience. A great tool here is YouTube Analytics,
+which provides data that can help you understand
+how your existing content is performing and
+provide insights for future videos!
+How YouTube recommends videos using "the
+algorithm"Our search and discovery systems are built to find
+videos that match viewers’ individual interests.
+Werecommend videosbased on things such as: what your audience
+watches and doesn’t watch, how much time they
+spend watching, what they like and dislike, if
+they mark a video as ‘not interested’, and on
+satisfaction surveys.So, rather than trying trying to find a secret
+code to these systems, focus instead on making
+videos that you think will resonate with your
+audience. A great tool here is YouTube Analytics,
+which provides data that can help you understand
+how your existing content is performing and
+provide insights for future videos!
+How YouTube recommends videos using "the
+algorithm"
+How YouTube recommends videos using "the
+algorithm"
+How YouTube recommends videos using "the
+algorithm"
+Our search and discovery systems are built to find
+videos that match viewers’ individual interests.
+Werecommend videosbased on things such as: what your audience
+watches and doesn’t watch, how much time they
+spend watching, what they like and dislike, if
+they mark a video as ‘not interested’, and on
+satisfaction surveys.So, rather than trying trying to find a secret
+code to these systems, focus instead on making
+videos that you think will resonate with your
+audience. A great tool here is YouTube Analytics,
+which provides data that can help you understand
+how your existing content is performing and
+provide insights for future videos!
+Our search and discovery systems are built to find
+videos that match viewers’ individual interests.
+Werecommend videosbased on things such as: what your audience
+watches and doesn’t watch, how much time they
+spend watching, what they like and dislike, if
+they mark a video as ‘not interested’, and on
+satisfaction surveys.
+So, rather than trying trying to find a secret
+code to these systems, focus instead on making
+videos that you think will resonate with your
+audience. A great tool here is YouTube Analytics,
+which provides data that can help you understand
+how your existing content is performing and
+provide insights for future videos!
+01How do I start creating on YouTube?Creator basics: how to set up and customize your
+channelThere are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything from
+Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to start
+by creating a YouTube Channel.First you need to sign into YouTube using a Google
+Account.Once you’re signed in, click ‘Create Account’, and
+choose whether it’s for you or for your business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and create
+Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your YouTube
+account and then click on the “Create” icon.If you’re planning to upload a longer form video,
+select “upload video” and then choose your desired
+video file - you can upload 15 files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite of
+lightweight tools.02How do I grow my channel?Help your videos stand out & keep viewers
+watchingGrowing your channel is all about creating videos
+viewers want to watch and accurately presenting them
+to the audience. When doing so, here’s a few tips to
+keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what they
+can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through the
+video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.03How do I make edits to my channel?Navigating YouTube StudioYouTube Studio is your home base for posting videos
+and making edits to your channel. To update your
+channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using the
+Studio Mobile app. You can tap ‘Your Channel’ and
+then ‘Edit Channel’ to update and edit how your
+channel looks to your viewers. Note that you can
+only change your channel’s name three times every 90
+days.Read more about managing your channel04How do I promote my videos?Promoting your videosPromoting your videos is all about getting the word
+out there. On YouTube, you can use tools like cards,
+end screens, Stories, and Community Posts to drive
+viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts, or
+platforms that align with your content and your
+intended audience.Read more about promoting your videos05How does the algorithm work?How YouTube recommends videos using "the
+algorithm"Our search and discovery systems are built to find
+videos that match viewers’ individual interests. Werecommend videosbased on things such as: what your audience watches
+and doesn’t watch, how much time they spend
+watching, what they like and dislike, if they mark a
+video as ‘not interested’, and on satisfaction
+surveys.So, rather than trying trying to find a secret code
+to these systems, focus instead on making videos
+that you think will resonate with your audience. A
+great tool here is YouTube Analytics, which provides
+data that can help you understand how your existing
+content is performing and provide insights for
+future videos!
+01How do I start creating on YouTube?Creator basics: how to set up and customize your
+channelThere are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything from
+Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to start
+by creating a YouTube Channel.First you need to sign into YouTube using a Google
+Account.Once you’re signed in, click ‘Create Account’, and
+choose whether it’s for you or for your business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and create
+Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your YouTube
+account and then click on the “Create” icon.If you’re planning to upload a longer form video,
+select “upload video” and then choose your desired
+video file - you can upload 15 files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite of
+lightweight tools.
+01How do I start creating on YouTube?
+01How do I start creating on YouTube?
+Creator basics: how to set up and customize your
+channelThere are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything from
+Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to start
+by creating a YouTube Channel.First you need to sign into YouTube using a Google
+Account.Once you’re signed in, click ‘Create Account’, and
+choose whether it’s for you or for your business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and create
+Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your YouTube
+account and then click on the “Create” icon.If you’re planning to upload a longer form video,
+select “upload video” and then choose your desired
+video file - you can upload 15 files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite of
+lightweight tools.
+Creator basics: how to set up and customize your
+channelThere are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything from
+Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to start
+by creating a YouTube Channel.First you need to sign into YouTube using a Google
+Account.Once you’re signed in, click ‘Create Account’, and
+choose whether it’s for you or for your business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and create
+Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your YouTube
+account and then click on the “Create” icon.If you’re planning to upload a longer form video,
+select “upload video” and then choose your desired
+video file - you can upload 15 files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite of
+lightweight tools.
+Creator basics: how to set up and customize your
+channelThere are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything from
+Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to start
+by creating a YouTube Channel.First you need to sign into YouTube using a Google
+Account.Once you’re signed in, click ‘Create Account’, and
+choose whether it’s for you or for your business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and create
+Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your YouTube
+account and then click on the “Create” icon.If you’re planning to upload a longer form video,
+select “upload video” and then choose your desired
+video file - you can upload 15 files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite of
+lightweight tools.
+Creator basics: how to set up and customize your
+channel
+Creator basics: how to set up and customize your
+channel
+Creator basics: how to set up and customize your
+channel
+Creator basics: how to set up and customize your
+channel
+There are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything from
+Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to start
+by creating a YouTube Channel.First you need to sign into YouTube using a Google
+Account.Once you’re signed in, click ‘Create Account’, and
+choose whether it’s for you or for your business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and create
+Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your YouTube
+account and then click on the “Create” icon.If you’re planning to upload a longer form video,
+select “upload video” and then choose your desired
+video file - you can upload 15 files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite of
+lightweight tools.
+There are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything from
+Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.No matter what you’re creating, you’ll need to start
+by creating a YouTube Channel.First you need to sign into YouTube using a Google
+Account.Once you’re signed in, click ‘Create Account’, and
+choose whether it’s for you or for your business.You can then create a YouTube channel on your
+account, upload videos, leave comments, and create
+Shorts and playlists.Next, you’ll want to upload your videos!Uploading is easy. You just sign into your YouTube
+account and then click on the “Create” icon.If you’re planning to upload a longer form video,
+select “upload video” and then choose your desired
+video file - you can upload 15 files at a time!If you’d like toupload a YouTube Short, you’ll need to be signed into YouTube mobile,
+where you’ll tap ‘Create’ and then ‘Create a
+Short’. From here you can either upload a video
+from your camera roll or create using our suite of
+lightweight tools.
+There are a few ways to get started on YouTube. We
+offer up different formats and functionalities,
+giving you the flexibility to create everything from
+Shorts, which are vertical videos that run 60
+seconds or less, to longer form videos.
+No matter what you’re creating, you’ll need to start
+by creating a YouTube Channel.
+Next, you’ll want to upload your videos!
+02How do I grow my channel?Help your videos stand out & keep viewers
+watchingGrowing your channel is all about creating videos
+viewers want to watch and accurately presenting them
+to the audience. When doing so, here’s a few tips to
+keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what they
+can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through the
+video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.
+02How do I grow my channel?
+02How do I grow my channel?
+Help your videos stand out & keep viewers
+watchingGrowing your channel is all about creating videos
+viewers want to watch and accurately presenting them
+to the audience. When doing so, here’s a few tips to
+keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what they
+can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through the
+video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.
+Help your videos stand out & keep viewers
+watchingGrowing your channel is all about creating videos
+viewers want to watch and accurately presenting them
+to the audience. When doing so, here’s a few tips to
+keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what they
+can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through the
+video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.
+Help your videos stand out & keep viewers
+watchingGrowing your channel is all about creating videos
+viewers want to watch and accurately presenting them
+to the audience. When doing so, here’s a few tips to
+keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what they
+can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through the
+video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.
+Help your videos stand out & keep viewers
+watching
+Help your videos stand out & keep viewers
+watching
+Help your videos stand out & keep viewers
+watching
+Help your videos stand out & keep viewers
+watching
+Growing your channel is all about creating videos
+viewers want to watch and accurately presenting them
+to the audience. When doing so, here’s a few tips to
+keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what they
+can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through the
+video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.
+Growing your channel is all about creating videos
+viewers want to watch and accurately presenting them
+to the audience. When doing so, here’s a few tips to
+keep in mind.With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what they
+can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through the
+video feed!Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.
+Growing your channel is all about creating videos
+viewers want to watch and accurately presenting them
+to the audience. When doing so, here’s a few tips to
+keep in mind.
+With each video, think carefully about the title,
+description, andthumbnailyou plan to use - these should all accurately
+reflect your content and let viewers know what they
+can expect from the video. If you’re a Shorts
+creator, think about how the first 1-2 seconds of
+your content can grab viewers scrolling through the
+video feed!
+Once you’ve got viewers watching, you can redirect
+their attention via hashtags,playlists,cards,end screens, and more.
+03How do I make edits to my channel?Navigating YouTube StudioYouTube Studio is your home base for posting videos
+and making edits to your channel. To update your
+channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using the
+Studio Mobile app. You can tap ‘Your Channel’ and
+then ‘Edit Channel’ to update and edit how your
+channel looks to your viewers. Note that you can
+only change your channel’s name three times every 90
+days.Read more about managing your channel
+03How do I make edits to my channel?
+03How do I make edits to my channel?
+Navigating YouTube StudioYouTube Studio is your home base for posting videos
+and making edits to your channel. To update your
+channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using the
+Studio Mobile app. You can tap ‘Your Channel’ and
+then ‘Edit Channel’ to update and edit how your
+channel looks to your viewers. Note that you can
+only change your channel’s name three times every 90
+days.Read more about managing your channel
+Navigating YouTube StudioYouTube Studio is your home base for posting videos
+and making edits to your channel. To update your
+channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using the
+Studio Mobile app. You can tap ‘Your Channel’ and
+then ‘Edit Channel’ to update and edit how your
+channel looks to your viewers. Note that you can
+only change your channel’s name three times every 90
+days.Read more about managing your channel
+Navigating YouTube StudioYouTube Studio is your home base for posting videos
+and making edits to your channel. To update your
+channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using the
+Studio Mobile app. You can tap ‘Your Channel’ and
+then ‘Edit Channel’ to update and edit how your
+channel looks to your viewers. Note that you can
+only change your channel’s name three times every 90
+days.Read more about managing your channel
+Navigating YouTube Studio
+Navigating YouTube Studio
+Navigating YouTube Studio
+Navigating YouTube Studio
+YouTube Studio is your home base for posting videos
+and making edits to your channel. To update your
+channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using the
+Studio Mobile app. You can tap ‘Your Channel’ and
+then ‘Edit Channel’ to update and edit how your
+channel looks to your viewers. Note that you can
+only change your channel’s name three times every 90
+days.Read more about managing your channel
+YouTube Studio is your home base for posting videos
+and making edits to your channel. To update your
+channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.You can also make changes to your channel using the
+Studio Mobile app. You can tap ‘Your Channel’ and
+then ‘Edit Channel’ to update and edit how your
+channel looks to your viewers. Note that you can
+only change your channel’s name three times every 90
+days.Read more about managing your channel
+YouTube Studio is your home base for posting videos
+and making edits to your channel. To update your
+channel’s basic info like name,profile picture, and banner, just log in and tap ‘Customisation’
+to see your options.
+You can also make changes to your channel using the
+Studio Mobile app. You can tap ‘Your Channel’ and
+then ‘Edit Channel’ to update and edit how your
+channel looks to your viewers. Note that you can
+only change your channel’s name three times every 90
+days.
+Read more about managing your channel
+04How do I promote my videos?Promoting your videosPromoting your videos is all about getting the word
+out there. On YouTube, you can use tools like cards,
+end screens, Stories, and Community Posts to drive
+viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts, or
+platforms that align with your content and your
+intended audience.Read more about promoting your videos
+04How do I promote my videos?
+04How do I promote my videos?
+Promoting your videosPromoting your videos is all about getting the word
+out there. On YouTube, you can use tools like cards,
+end screens, Stories, and Community Posts to drive
+viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts, or
+platforms that align with your content and your
+intended audience.Read more about promoting your videos
+Promoting your videosPromoting your videos is all about getting the word
+out there. On YouTube, you can use tools like cards,
+end screens, Stories, and Community Posts to drive
+viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts, or
+platforms that align with your content and your
+intended audience.Read more about promoting your videos
+Promoting your videosPromoting your videos is all about getting the word
+out there. On YouTube, you can use tools like cards,
+end screens, Stories, and Community Posts to drive
+viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts, or
+platforms that align with your content and your
+intended audience.Read more about promoting your videos
+Promoting your videos
+Promoting your videos
+Promoting your videos
+Promoting your videos
+Promoting your videos is all about getting the word
+out there. On YouTube, you can use tools like cards,
+end screens, Stories, and Community Posts to drive
+viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts, or
+platforms that align with your content and your
+intended audience.Read more about promoting your videos
+Promoting your videos is all about getting the word
+out there. On YouTube, you can use tools like cards,
+end screens, Stories, and Community Posts to drive
+viewers to a specific piece of content!Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts, or
+platforms that align with your content and your
+intended audience.Read more about promoting your videos
+Promoting your videos is all about getting the word
+out there. On YouTube, you can use tools like cards,
+end screens, Stories, and Community Posts to drive
+viewers to a specific piece of content!
+Off-platform, think about promoting your videos on
+your socials and relevant communities, podcasts, or
+platforms that align with your content and your
+intended audience.
+Read more about promoting your videos
+05How does the algorithm work?How YouTube recommends videos using "the
+algorithm"Our search and discovery systems are built to find
+videos that match viewers’ individual interests. Werecommend videosbased on things such as: what your audience watches
+and doesn’t watch, how much time they spend
+watching, what they like and dislike, if they mark a
+video as ‘not interested’, and on satisfaction
+surveys.So, rather than trying trying to find a secret code
+to these systems, focus instead on making videos
+that you think will resonate with your audience. A
+great tool here is YouTube Analytics, which provides
+data that can help you understand how your existing
+content is performing and provide insights for
+future videos!
+05How does the algorithm work?
+05How does the algorithm work?
+How YouTube recommends videos using "the
+algorithm"Our search and discovery systems are built to find
+videos that match viewers’ individual interests. Werecommend videosbased on things such as: what your audience watches
+and doesn’t watch, how much time they spend
+watching, what they like and dislike, if they mark a
+video as ‘not interested’, and on satisfaction
+surveys.So, rather than trying trying to find a secret code
+to these systems, focus instead on making videos
+that you think will resonate with your audience. A
+great tool here is YouTube Analytics, which provides
+data that can help you understand how your existing
+content is performing and provide insights for
+future videos!
+How YouTube recommends videos using "the
+algorithm"Our search and discovery systems are built to find
+videos that match viewers’ individual interests. Werecommend videosbased on things such as: what your audience watches
+and doesn’t watch, how much time they spend
+watching, what they like and dislike, if they mark a
+video as ‘not interested’, and on satisfaction
+surveys.So, rather than trying trying to find a secret code
+to these systems, focus instead on making videos
+that you think will resonate with your audience. A
+great tool here is YouTube Analytics, which provides
+data that can help you understand how your existing
+content is performing and provide insights for
+future videos!
+How YouTube recommends videos using "the
+algorithm"Our search and discovery systems are built to find
+videos that match viewers’ individual interests. Werecommend videosbased on things such as: what your audience watches
+and doesn’t watch, how much time they spend
+watching, what they like and dislike, if they mark a
+video as ‘not interested’, and on satisfaction
+surveys.So, rather than trying trying to find a secret code
+to these systems, focus instead on making videos
+that you think will resonate with your audience. A
+great tool here is YouTube Analytics, which provides
+data that can help you understand how your existing
+content is performing and provide insights for
+future videos!
+How YouTube recommends videos using "the
+algorithm"
+How YouTube recommends videos using "the
+algorithm"
+How YouTube recommends videos using "the
+algorithm"
+How YouTube recommends videos using "the
+algorithm"
+Our search and discovery systems are built to find
+videos that match viewers’ individual interests. Werecommend videosbased on things such as: what your audience watches
+and doesn’t watch, how much time they spend
+watching, what they like and dislike, if they mark a
+video as ‘not interested’, and on satisfaction
+surveys.So, rather than trying trying to find a secret code
+to these systems, focus instead on making videos
+that you think will resonate with your audience. A
+great tool here is YouTube Analytics, which provides
+data that can help you understand how your existing
+content is performing and provide insights for
+future videos!
+Our search and discovery systems are built to find
+videos that match viewers’ individual interests. Werecommend videosbased on things such as: what your audience watches
+and doesn’t watch, how much time they spend
+watching, what they like and dislike, if they mark a
+video as ‘not interested’, and on satisfaction
+surveys.So, rather than trying trying to find a secret code
+to these systems, focus instead on making videos
+that you think will resonate with your audience. A
+great tool here is YouTube Analytics, which provides
+data that can help you understand how your existing
+content is performing and provide insights for
+future videos!
+Our search and discovery systems are built to find
+videos that match viewers’ individual interests. Werecommend videosbased on things such as: what your audience watches
+and doesn’t watch, how much time they spend
+watching, what they like and dislike, if they mark a
+video as ‘not interested’, and on satisfaction
+surveys.
+So, rather than trying trying to find a secret code
+to these systems, focus instead on making videos
+that you think will resonate with your audience. A
+great tool here is YouTube Analytics, which provides
+data that can help you understand how your existing
+content is performing and provide insights for
+future videos!
+See all questions
+See all questions
+ResourcesLearnFrom getting started to improving your channel’s performance,
+these resources help you continue to learn and grow.Updates, news, and education from experts and Creators.YouTube Creators ChannelSupportIf you have a problem, we’re here to help you solve it. Fix
+upload problems, troubleshoot account issues, and more.Get the breakdown on topics most important to Creators.Help CenterThe place to ask questions and provide feedback.Community ForumConnectAsk questions, find answers, and understand more about YouTube
+via our social channels and email.The latest tools, tips, and inspiration for Creators like you.@YouTubeCreatorsReal-time answers. Available in: English, Español, Português,
+Deutsch, Français, Pусский, 日本語, and Bahasa Indonesia.@TeamYouTubeGet the latest information and resources in your inbox.YouTube Emails
+LearnFrom getting started to improving your channel’s performance,
+these resources help you continue to learn and grow.Updates, news, and education from experts and Creators.YouTube Creators ChannelSupportIf you have a problem, we’re here to help you solve it. Fix
+upload problems, troubleshoot account issues, and more.Get the breakdown on topics most important to Creators.Help CenterThe place to ask questions and provide feedback.Community ForumConnectAsk questions, find answers, and understand more about YouTube
+via our social channels and email.The latest tools, tips, and inspiration for Creators like you.@YouTubeCreatorsReal-time answers. Available in: English, Español, Português,
+Deutsch, Français, Pусский, 日本語, and Bahasa Indonesia.@TeamYouTubeGet the latest information and resources in your inbox.YouTube Emails
+LearnFrom getting started to improving your channel’s performance,
+these resources help you continue to learn and grow.Updates, news, and education from experts and Creators.YouTube Creators Channel
+LearnFrom getting started to improving your channel’s performance,
+these resources help you continue to learn and grow.Updates, news, and education from experts and Creators.YouTube Creators Channel
+From getting started to improving your channel’s performance,
+these resources help you continue to learn and grow.
+Updates, news, and education from experts and Creators.YouTube Creators Channel
+Updates, news, and education from experts and Creators.
+YouTube Creators Channel
+SupportIf you have a problem, we’re here to help you solve it. Fix
+upload problems, troubleshoot account issues, and more.Get the breakdown on topics most important to Creators.Help CenterThe place to ask questions and provide feedback.Community Forum
+SupportIf you have a problem, we’re here to help you solve it. Fix
+upload problems, troubleshoot account issues, and more.Get the breakdown on topics most important to Creators.Help CenterThe place to ask questions and provide feedback.Community Forum
+If you have a problem, we’re here to help you solve it. Fix
+upload problems, troubleshoot account issues, and more.
+Get the breakdown on topics most important to Creators.Help CenterThe place to ask questions and provide feedback.Community Forum
+Get the breakdown on topics most important to Creators.
+Help Center
+The place to ask questions and provide feedback.
+Community Forum
+ConnectAsk questions, find answers, and understand more about YouTube
+via our social channels and email.The latest tools, tips, and inspiration for Creators like you.@YouTubeCreatorsReal-time answers. Available in: English, Español, Português,
+Deutsch, Français, Pусский, 日本語, and Bahasa Indonesia.@TeamYouTubeGet the latest information and resources in your inbox.YouTube Emails
+ConnectAsk questions, find answers, and understand more about YouTube
+via our social channels and email.The latest tools, tips, and inspiration for Creators like you.@YouTubeCreatorsReal-time answers. Available in: English, Español, Português,
+Deutsch, Français, Pусский, 日本語, and Bahasa Indonesia.@TeamYouTubeGet the latest information and resources in your inbox.YouTube Emails
+Ask questions, find answers, and understand more about YouTube
+via our social channels and email.
+The latest tools, tips, and inspiration for Creators like you.@YouTubeCreatorsReal-time answers. Available in: English, Español, Português,
+Deutsch, Français, Pусский, 日本語, and Bahasa Indonesia.@TeamYouTubeGet the latest information and resources in your inbox.YouTube Emails
+The latest tools, tips, and inspiration for Creators like you.
+@YouTubeCreators
+Real-time answers. Available in: English, Español, Português,
+Deutsch, Français, Pусский, 日本語, and Bahasa Indonesia.
+@TeamYouTube
+Get the latest information and resources in your inbox.
+YouTube Emails
+

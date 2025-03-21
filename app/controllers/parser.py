@@ -17,26 +17,26 @@ ai = AIProcessor()
 @router.get("/parse/{url:path}")
 async def parse_website(url: str):
     try:
-        # Декодирование URL
         decoded_url = unquote(url)
-        
-        logger.info(f"Processing URL: {decoded_url}")
-        
-        # Проверка валидности URL
+        logger.info(f"Processing: {decoded_url}")
+
         if not is_valid_url(decoded_url):
-            raise HTTPException(status_code=400, detail="Invalid URL format")
-        
-        # Обработка запроса
+            raise HTTPException(status_code=400, detail="Некорректный URL")
+
         result = await crawler.process_site(decoded_url)
-        
-        # Проверка наличия контента
         content_file = Path(result["content_file"])
-        if not content_file.exists() or content_file.stat().st_size == 0:
-            raise HTTPException(status_code=404, detail="No content found")
+
+        if not content_file.exists():
+            raise HTTPException(status_code=404, detail="Файл не найден")
             
-        # Генерация описания
+        if content_file.stat().st_size < 100:
+            raise HTTPException(status_code=422, detail="Недостаточно данных")
+
         description = await ai.generate_description(content_file)
         
+        if "ошибка" in description.lower():
+            raise HTTPException(status_code=500, detail=description)
+
         return {
             "domain": result["domain"],
             "subdomains_count": len(result["subdomains"]),
@@ -44,8 +44,13 @@ async def parse_website(url: str):
             "description": description,
             "content_file": str(content_file)
         }
+
     except HTTPException as he:
+        logger.error(f"HTTP Error: {he.detail}")
         raise
     except Exception as e:
-        logger.error(f"Critical error processing {url}: {traceback.format_exc()}")
-        raise HTTPException(status_code=500, detail="Internal server error")
+        logger.critical(f"Critical error: {traceback.format_exc()}")
+        raise HTTPException(
+            status_code=500,
+            detail="Внутренняя ошибка сервера"
+        )

@@ -51,48 +51,47 @@ class CrawlerService:
 
     @async_retry(max_retries=settings.MAX_RETRIES, delay=settings.RETRY_DELAY)
     async def fetch_content(self, url: str, max_redirects: int = 5, visited: set = None) -> str:
-        """Получение контента страницы с обработкой редиректов"""
+        """Получение контента с улучшенной обработкой редиректов"""
         if visited is None:
             visited = set()
         
         if url in visited:
-            logger.warning(f"Cyclic redirect detected for URL: {url}")
+            logger.warning(f"Cyclic redirect detected: {url}")
             return ""
         
         if len(visited) >= max_redirects:
-            logger.warning(f"Max redirects ({max_redirects}) reached for URL: {url}")
+            logger.warning(f"Max redirects reached: {url}")
             return ""
         
         try:
-            async with httpx.AsyncClient(follow_redirects=False) as client:  # Отключаем автоматические редиректы
+            async with httpx.AsyncClient(follow_redirects=False) as client:
                 response = await client.get(
                     url,
                     timeout=settings.REQUEST_TIMEOUT,
                     headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
                 )
                 
-                # Обработка редиректов вручную
                 if response.status_code in (301, 302, 303, 307, 308):
                     redirect_url = response.headers.get("Location")
                     if not redirect_url:
-                        logger.warning(f"No Location header in redirect response for {url}")
+                        logger.warning(f"No Location header: {url}")
                         return ""
                     
-                    # Преобразуем относительный URL в абсолютный
                     if not redirect_url.startswith(("http://", "https://")):
                         from urllib.parse import urljoin
                         redirect_url = urljoin(url, redirect_url)
                     
-                    logger.info(f"Redirecting from {url} to {redirect_url}")
+                    logger.info(f"Redirect: {url} -> {redirect_url}")
                     return await self.fetch_content(redirect_url, max_redirects, visited | {url})
                 
                 response.raise_for_status()
                 return response.text
+                
         except httpx.HTTPStatusError as e:
-            logger.warning(f"HTTP error for {url}: {str(e)}")
+            logger.warning(f"HTTP Error: {str(e)}")
             return await self._dynamic_fetch(url)
         except Exception as e:
-            logger.error(f"Failed to fetch {url}: {str(e)}")
+            logger.error(f"Fetch failed: {str(e)}")
             return ""
 
     async def _dynamic_fetch(self, url: str) -> str:
