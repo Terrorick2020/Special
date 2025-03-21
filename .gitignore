@@ -2,4 +2,4 @@ venv
 ./app/.env
 __pycache__
 *.pyc
-app/results/
+results
