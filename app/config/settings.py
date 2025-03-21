@@ -7,12 +7,12 @@ from pydantic_settings import BaseSettings
 from pydantic import ConfigDict
 
 class Settings(BaseSettings):
-    RESULTS_DIR: Path = Path("C:\\Users\\ta1\\Documents\\projects\\scaner\\app\\results")
-    SUBDOMAINS_FILE: Path = Path("C:\\Users\\ta1\\Documents\\projects\\scaner\\app\\subdomains.txt")
+    RESULTS_DIR: Path = Path(__file__).parent / 'results'
+    SUBDOMAINS_FILE: Path = Path(__file__).parent / 'subdomains.txt'
     MAX_CONTENT_LINES: int = 500
     REQUEST_TIMEOUT: int = 15
     DEEPSEEK_API_KEY: str
-    DEEPSEEK_MODEL: str = "google/gemma-3-12b-it:free"
+    DEEPSEEK_MODEL: str = "deepseek/deepseek-r1-zero:free"
     MAX_RETRIES: int = 3
     RETRY_DELAY: float = 1.0
 
