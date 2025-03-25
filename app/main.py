@@ -1,13 +1,28 @@
 from fastapi import FastAPI
-from app.controllers.parser import router as parse_router
-from app.utils.helpers import setup_logger
+from dishka.integrations.fastapi import setup_dishka
 
-logger = setup_logger(__name__)
+from app.config.settings import settings
+from app.controllers.parser import parse_router
+from app.config.dishka import container_factory
 
-app = FastAPI()
-app.include_router(parse_router)
+app = FastAPI(
+    title="Website Analyzer",
+    description="API для анализа веб-сайтов и определения их тематики"
+)
+
+setup_dishka(container_factory(), app)
+
+app.include_router(
+    parse_router,
+    prefix="/api/v1/parse",
+    tags=["Parser"]
+)
 
 if __name__ == "__main__":
     import uvicorn
-    logger.info("Starting FastAPI application...")
-    uvicorn.run(app, host="127.0.0.1", port=3000)
+    uvicorn.run(
+        app=app,
+        host=settings.HOST,
+        port=settings.PORT,
+        reload=settings.DEBUG,
+    )

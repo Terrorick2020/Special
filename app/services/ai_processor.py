@@ -25,6 +25,7 @@ class AIProcessor:
             prompt = f"Опиши чем занимается компания на русском языке (должно быть не более 3 предложений): {content}"
             
             async with httpx.AsyncClient() as client:
+                logger.debug(f"Using API Key: {self.api_key}")
                 response = await client.post(
                     self.base_url,
                     headers={"Authorization": f"Bearer {self.api_key}"},
