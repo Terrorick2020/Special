@@ -14,7 +14,7 @@ setup_dishka(container_factory(), app)
 
 app.include_router(
     parse_router,
-    prefix="/api/v1/parse",
+    prefix="/api",
     tags=["Parser"]
 )
 

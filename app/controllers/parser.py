@@ -80,5 +80,4 @@ async def parse_website(
             detail="Внутренняя ошибка сервера"
         )
 
-# Явно экспортируем router под именем parse_router
 parse_router = router

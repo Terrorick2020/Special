@@ -7,14 +7,12 @@ from pydantic_settings import BaseSettings
 from pydantic import ConfigDict
 
 class Settings(BaseSettings):
-    # Настройки PostgreSQL
     POSTGRES_USER: str
     POSTGRES_PASSWORD: str
     POSTGRES_DB: str
     POSTGRES_HOST: str = "db"
     POSTGRES_PORT: str = "5432"
     
-    # URL для подключения к БД
     @property
     def DATABASE_URL(self) -> str:
         return (
@@ -23,7 +21,6 @@ class Settings(BaseSettings):
             f"{self.POSTGRES_PORT}/{self.POSTGRES_DB}"
         )
 
-    # Остальные настройки...
     RESULTS_DIR: Path = Path("results")
     SUBDOMAINS_FILE: Path = Path("subdomains.txt")
     MAX_CONTENT_LINES: int = 500
