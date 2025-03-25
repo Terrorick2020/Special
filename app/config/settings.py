@@ -23,6 +23,7 @@ class Settings(BaseSettings):
 
     RESULTS_DIR: Path = Path("results")
     SUBDOMAINS_FILE: Path = Path("subdomains.txt")
+    
     MAX_CONTENT_LINES: int = 500
     REQUEST_TIMEOUT: int = 15
     DEEPSEEK_API_KEY: str
