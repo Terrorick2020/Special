@@ -31,3 +31,4 @@ def upgrade():
 def downgrade():
     op.drop_index(op.f('ix_results_domain'), table_name='results')
     op.drop_table('results')
+    
