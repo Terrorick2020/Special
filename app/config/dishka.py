@@ -1,4 +1,4 @@
-from typing import Protocol
+from typing import Protocol, AsyncGenerator, Any
 from dishka import Provider, Scope, provide
 from sqlalchemy.ext.asyncio import async_sessionmaker, create_async_engine, AsyncSession
 from app.config.settings import settings
