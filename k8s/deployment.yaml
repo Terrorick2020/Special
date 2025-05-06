@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: scaner-container
-        image: ta1kin/scaner:latest
+        image: ta1kin77/scaner:latest
         ports:
         - containerPort: 8000
         env:
