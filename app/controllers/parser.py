@@ -6,6 +6,8 @@ from typing import Any
 from app.services.crawler import CrawlerService
 from app.services.ai_processor import AIProcessor
 from app.database.repository import ResultRepository
+from app.database.session import get_session
+from sqlalchemy.ext.asyncio import AsyncSession
 from app.utils.helpers import setup_logger, is_valid_url
 from app.schemas.results import ResultResponse
 import traceback
@@ -21,11 +23,7 @@ def get_crawler() -> CrawlerService:
 def get_ai_processor() -> AIProcessor:
     return AIProcessor()
 
-def get_repository() -> ResultRepository:
-    # Здесь будет использована зависимость от session
-    # которую dishka предоставит автоматически
-    from dishka.integrations.fastapi import get_from_dishka
-    session = get_from_dishka("session")
+def get_repository(session: AsyncSession = Depends(get_session)) -> ResultRepository:
     return ResultRepository(session)
 
 @router.get(
