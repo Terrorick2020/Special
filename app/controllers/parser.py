@@ -1,7 +1,7 @@
 from fastapi import APIRouter, HTTPException, status
 from pathlib import Path
 from urllib.parse import unquote
-from dishka.integrations.fastapi import inject, FromDishka
+from dishka.integrations.fastapi import DishkaRoute
 
 from app.services.crawler import CrawlerService
 from app.services.ai_processor import AIProcessor
@@ -12,23 +12,22 @@ import traceback
 
 logger = setup_logger(__name__)
 
-router = APIRouter()
+router = APIRouter(route_class=DishkaRoute)
 
 @router.get(
     "/parse/{url:path}",
     response_model=ResultResponse,
     status_code=status.HTTP_200_OK
 )
-@inject
 async def parse_website(
     url: str,
-    crawler: FromDishka[CrawlerService],
-    ai: FromDishka[AIProcessor],
-    repository: FromDishka[ResultRepository],
+    crawler: CrawlerService,
+    ai: AIProcessor,
+    repository: ResultRepository,
 ):
     try:
         decoded_url = unquote(url)
-        logger.info(f"Processing: {decoded_url}")
+        logger.info(f"Обработка: {decoded_url}")
 
         if not is_valid_url(decoded_url):
             raise HTTPException(
@@ -71,10 +70,10 @@ async def parse_website(
         return db_result
 
     except HTTPException as he:
-        logger.error(f"HTTP Error: {he.detail}")
+        logger.error(f"HTTP ошибка: {he.detail}")
         raise
     except Exception as e:
-        logger.critical(f"Critical error: {traceback.format_exc()}")
+        logger.critical(f"Критическая ошибка: {traceback.format_exc()}")
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail="Внутренняя ошибка сервера"

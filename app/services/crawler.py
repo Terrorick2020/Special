@@ -156,12 +156,18 @@ class CrawlerService:
     async def process_site(self, url: str) -> dict:
         """Основной метод обработки сайта"""
         domain = self.extract_domain(url)
+        logger.info(f"Начато сканирование домена: {domain}")
+    
         subdomains = await self.scan_subdomains(domain)
+        logger.info(f"Найдено поддоменов: {len(subdomains)}")
+    
         pages = await self.crawl_pages(f"https://{domain}", domain)
-        
+        logger.info(f"Найдено страниц: {len(pages)}")
+    
         content_file = self.results_dir / f"{domain}.txt"
         await self.save_content(pages, content_file)
-        
+        logger.info(f"Контент сохранен в файл: {content_file}")
+    
         return {
             "domain": domain,
             "subdomains": subdomains,

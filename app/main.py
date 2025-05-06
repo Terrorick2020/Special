@@ -6,17 +6,23 @@ from app.controllers.parser import parse_router
 from app.config.dishka import container_factory
 
 app = FastAPI(
-    title="Website Analyzer",
+    title="Анализатор веб-сайтов",
     description="API для анализа веб-сайтов и определения их тематики"
 )
 
+# Настраиваем dishka
 setup_dishka(container_factory(), app)
 
 app.include_router(
     parse_router,
     prefix="/api",
-    tags=["Parser"]
+    tags=["Парсер"]
 )
+
+# Добавим эндпоинт для healthcheck
+@app.get("/health", tags=["Система"])
+async def health_check():
+    return {"status": "ok"}
 
 if __name__ == "__main__":
     import uvicorn

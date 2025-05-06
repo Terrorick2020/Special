@@ -44,20 +44,27 @@ def is_valid_url(url: str) -> bool:
     return bool(url_pattern.match(url))
 
 def clean_html_content(html: str) -> str:
-    """Очистка HTML-контента"""
+    """Очистка HTML-контента с поддержкой русского языка"""
     from bs4 import BeautifulSoup
     try:
         soup = BeautifulSoup(html, "html.parser")
         
-        for tag in ["script", "style", "nav", "footer", "header"]:
+        # Удаляем ненужные теги
+        for tag in ["script", "style", "nav", "footer", "header", "iframe", "noscript"]:
             for element in soup.find_all(tag):
                 element.decompose()
         
+        # Получаем текст с поддержкой кириллицы
         text = "\n".join(
-            [p.get_text(strip=True) for p in soup.find_all(["p", "div", "section"])]
+            [p.get_text(strip=True) for p in soup.find_all(["p", "div", "section", "h1", "h2", "h3", "h4", "h5"])]
         )
-        return "\n".join(line.strip() for line in text.splitlines() if line.strip())
+        
+        # Очищаем и удаляем пустые строки
+        filtered_lines = [line.strip() for line in text.splitlines() if line.strip()]
+        return "\n".join(filtered_lines)
     except Exception as e:
+        logger = setup_logger()
+        logger.error(f"Ошибка при очистке HTML: {str(e)}")
         return ""
         
 def async_retry(max_retries: int = 3, delay: float = 1.0) -> Callable:

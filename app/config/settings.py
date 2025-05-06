@@ -27,7 +27,7 @@ class Settings(BaseSettings):
     MAX_CONTENT_LINES: int = 500
     REQUEST_TIMEOUT: int = 15
     DEEPSEEK_API_KEY: str
-    DEEPSEEK_MODEL: str = "google/gemma-3-12b-it:free"
+    DEEPSEEK_MODEL: str = "deepseek/deepseek-prover-v2:free"
     MAX_RETRIES: int = 3
     RETRY_DELAY: float = 1.0
     REDIS_URL: str = "redis://redis:6379/0"
