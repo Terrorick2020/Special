@@ -15,13 +15,17 @@ logger = setup_logger(__name__)
 router = APIRouter()
 
 # Функции для получения зависимостей
-def get_crawler():
+def get_crawler() -> CrawlerService:
     return CrawlerService()
 
-def get_ai_processor():
+def get_ai_processor() -> AIProcessor:
     return AIProcessor()
 
-def get_repository(session=Depends()):
+def get_repository() -> ResultRepository:
+    # Здесь будет использована зависимость от session
+    # которую dishka предоставит автоматически
+    from dishka.integrations.fastapi import get_from_dishka
+    session = get_from_dishka("session")
     return ResultRepository(session)
 
 @router.get(

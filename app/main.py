@@ -1,5 +1,5 @@
-from fastapi import FastAPI, Depends
-from dishka.integrations.fastapi import setup_dishka, DishkaRoute
+from fastapi import FastAPI
+from dishka.integrations.fastapi import setup_dishka
 
 from app.config.settings import settings
 from app.controllers.parser import parse_router
@@ -10,8 +10,8 @@ app = FastAPI(
     description="API для анализа веб-сайтов и определения их тематики"
 )
 
-# Настраиваем dishka
-setup_dishka(container_factory(), app)
+container = container_factory()
+setup_dishka(container, app)
 
 app.include_router(
     parse_router,
@@ -19,7 +19,6 @@ app.include_router(
     tags=["Парсер"]
 )
 
-# Добавим эндпоинт для healthcheck
 @app.get("/health", tags=["Система"])
 async def health_check():
     return {"status": "ok"}
