@@ -36,7 +36,7 @@ class RequestProvider(Provider):
     scope = Scope.REQUEST
     
     @provide
-    async def provide_session(self, session_factory: async_sessionmaker[AsyncSession]) -> AsyncSession:
+    async def provide_session(self, session_factory: async_sessionmaker[AsyncSession]) -> AsyncGenerator[AsyncSession, None]:
         async with session_factory() as session:
             yield session
            

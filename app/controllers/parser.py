@@ -1,7 +1,7 @@
-from fastapi import APIRouter, HTTPException, status
+from fastapi import APIRouter, HTTPException, status, Depends
 from pathlib import Path
 from urllib.parse import unquote
-from dishka.integrations.fastapi import DishkaRoute
+from typing import Any
 
 from app.services.crawler import CrawlerService
 from app.services.ai_processor import AIProcessor
@@ -12,7 +12,17 @@ import traceback
 
 logger = setup_logger(__name__)
 
-router = APIRouter(route_class=DishkaRoute)
+router = APIRouter()
+
+# Функции для получения зависимостей
+def get_crawler():
+    return CrawlerService()
+
+def get_ai_processor():
+    return AIProcessor()
+
+def get_repository(session=Depends()):
+    return ResultRepository(session)
 
 @router.get(
     "/parse/{url:path}",
@@ -21,9 +31,9 @@ router = APIRouter(route_class=DishkaRoute)
 )
 async def parse_website(
     url: str,
-    crawler: CrawlerService,
-    ai: AIProcessor,
-    repository: ResultRepository,
+    crawler: Any = Depends(get_crawler),
+    ai: Any = Depends(get_ai_processor),
+    repository: Any = Depends(get_repository),
 ):
     try:
         decoded_url = unquote(url)

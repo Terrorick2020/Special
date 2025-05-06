@@ -1,5 +1,5 @@
-from fastapi import FastAPI
-from dishka.integrations.fastapi import setup_dishka
+from fastapi import FastAPI, Depends
+from dishka.integrations.fastapi import setup_dishka, DishkaRoute
 
 from app.config.settings import settings
 from app.controllers.parser import parse_router
